@@ -1,0 +1,54 @@
+- ragione_sociale: Archiva s.r.l
+  ap: true
+  smp: true
+  sede_legale: Via Spagna 24, 37069 Villafranca di Verona
+  contact_point: Archiva
+  contact_info: peppol@archivagroup.it
+- ragione_sociale: Consip S.p.A.
+  ap: true
+  smp: true
+  sede_legale: Via Isonzo 19/E - 00198 - Rome
+  contact_point: Luca Mastrogregori
+  contact_info: luca.mastrogregori@consip.it
+- ragione_sociale: IN.TE.SA S.p.A.
+  ap: true
+  smp: false
+  sede_legale: Strada Pianezza, 289 - 10151 Torino
+  contact_point: Piera Casalone
+  contact_info: peppol_team@intesa.it
+- ragione_sociale: Infocamere ScPA
+  ap: true
+  smp: true
+  sede_legale: Via G. B. Morgagni, 13 - 00161 Roma
+  contact_point: Luigi Pallottini
+  contact_info: luigi.pallottini@infocamere.it
+- ragione_sociale: Infocert S.p.A.
+  ap: true
+  smp: false
+  sede_legale: Piazza Sallustio, 9 - 00187 Roma
+  contact_point: Fabrizio Leoni
+  contact_info: fabrizio.leoni@infocert.it
+- ragione_sociale: Intercent-ER - Agenzia regionale per lo sviluppo dei mercati telematici
+  ap: true
+  smp: true
+  sede_legale: Via dei Mille, 21 - 40121 Bologna
+  contact_point: Elisa Bertocchi
+  contact_info: elisa.bertocchi@regione.emilia-romagna.it
+- ragione_sociale: S.A.T.A. Applicazione Tecnologie Avanzate S.r.l.
+  ap: true
+  smp: false
+  sede_legale: Via Notari, 103 - 41126 Modena
+  contact_point: Paola Daniela Monari
+  contact_info: p.monari@satanet.it
+- ragione_sociale: STDM S.r.l
+  ap: true
+  smp: false
+  sede_legale: Via U. Foscolo, 32/I - 37057 San Giovanni Lupatoto (VR)
+  contact_point: Massimo Zanforlin
+  contact_info: segreteria@stdm.net
+- ragione_sociale: Tecmarket Servizi S.p.A.
+  ap: true
+  smp: false
+  sede_legale: Via Meucci, 5 - 37135 Verona
+  contact_point: Marco Marsilio
+  contact_info: marco.marsilio@tecmarket.it

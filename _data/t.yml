@@ -1,0 +1,70 @@
+---
+## Main icon
+icon: "/assets/images/peppol-logo.png"
+
+## Social Card [1200x630]
+social-card: /assets/images/favicons/social-card.png
+
+## Site name
+name:
+  en: ""
+  it: "PEPPOL"
+
+## Site description
+description:
+  en: ""
+  it: "PEPPOL Authority in Italia"
+
+## Site author
+author:
+  en: ""
+  it: "Agenzia per l'Italia Digitale"
+
+## Social
+social-links:
+  en:
+    facebook:
+      name: "facebook"
+      url: "https://www.facebook.com/AgIDGovIT/"
+    twitter:
+      name: "twitter"
+      url: "https://twitter.com/AgidGov"
+    medium:
+      name: "medium"
+      url: "https://medium.com/@AgidGov"
+  it:
+    facebook:
+      name: "facebook"
+      url: "https://www.facebook.com/AgIDGovIT/"
+    twitter:
+      name: "twitter"
+      url: "https://twitter.com/AgidGov"
+    medium:
+      name: "medium"
+      url: "https://medium.com/@AgidGov"
+
+## Labels
+italian-version:
+  en: "Italian version"
+  it: "Versione italiana"
+english-version:
+  en: "English version"
+  it: "Versione inglese"
+cookie-policy-info:
+  en: "This site uses technical, analytics and third-party cookies <br>By continuing to browse, you accept the use of cookies."
+  it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
+cookie-policy-accept-btn:
+  en: "Ok"
+  it: "Accetto"
+footer-links:
+  en:
+    privacy-policy:
+      name: "Privacy policy"
+      url: "https://www.agid.gov.it/it/privacy-policy"
+  it:
+    privacy-policy:
+      name: "Privacy policy"
+      url: "https://www.agid.gov.it/it/privacy-policy"
+
+
+
