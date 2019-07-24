@@ -1,7 +1,7 @@
 version: 2.1
 
 commands:
-  restore_cache:
+  restore_gem_cache:
     description: Restore ruby dependencies cache
     steps:
       - restore_cache:
@@ -24,7 +24,7 @@ commands:
           name: Bundle install
           command: bundle install --path vendor/bundle
 
-  save_cache:
+  save_gem_cache:
     description: Save ruby dependencies cache
     steps:
       - save_cache:
