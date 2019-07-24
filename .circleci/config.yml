@@ -1,3 +1,4 @@
+# CircleCI configuration
 version: 2.1
 
 commands:
@@ -41,10 +42,10 @@ jobs:
       - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
     steps:
       - checkout
-      - restore_cache
+      - restore_gem_cache
       - install_bundler
       - install_dependencies
-      - save_cache
+      - save_gem_cache
       # build
       - run:
           name: Run build task
