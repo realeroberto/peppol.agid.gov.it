@@ -1,3 +1,15 @@
-gem 'jekyll', '~> 3.8.5'
-gem 'jekyll-sitemap', '~> 1.2.0'
-gem 'jekyll-feed', '~> 0.11.0'
+source "https://rubygems.org"
+ruby RUBY_VERSION
+
+gem 'jekyll', '3.8.6'
+
+gem 'html-proofer', '~> 3.11'
+
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+   gem 'jekyll-feed'
+   gem 'jekyll-sitemap'
+end
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
