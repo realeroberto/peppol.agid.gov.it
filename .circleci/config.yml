@@ -58,6 +58,7 @@ jobs:
           root: .
           paths:
             - _site
+            - .circleci
 
   deploy-gh-pages:
     docker:
