@@ -1,57 +1,34 @@
 ---
 layout: page
-title: Chi siamo
+title: About us
 description: 
 lang: en
-ref: chi-siamo
+ref: about-us
 order: 2
 ---
 
-AgID ricopre il ruolo di PEPPOL Authority in Italia svolgendo le funzioni di
-qualifica, gestione, monitoraggio e supporto informativo agli utilizzatori
-dell'infrastruttura PEPPOL.
+AgID covers the role of PEPPOL Authority in Italy performing the functions of qualification, management, monitoring and information support for users of the PEPPOL infrastructure.
 
-L’infrastruttura di trasporto PEPPOL fa riferimento ad un modello di governance
-che prevede un insieme di entità e documenti che regolano le attività di tutti i
-soggetti interessati ed i rapporti che intercorrono tra di essi.
+The PEPPOL transport infrastructure refers to a governance model that provides a set of entities and documents that regulate the activities of all the parties involved and the relationships between them.
 
-Il governo è garantito da 2 livelli di Autorità:
+The government is guaranteed by 2 levels of Authority:
 
-- Un’**Autorità di coordinamento centrale**, rappresentata da OpenPEPPOL, cui è
-  delegata la governance delle componenti centrali dell’infrastruttura (Service
-  Metadata Locator e Public Key Infrastructure) e delle specifiche del sistema,
-  avendo la possibilità di gestire le aree d’uso (attraverso gli identification
-  scheme ) e disponendo dello strumento per governarle . OpenPEPPOL garantisce
-  la consistenza e l’interoperabilità tecnica, semantica ed organizzativa
-  dell’infrastruttura, secondo quanto richiesto dalla Digital Agenda for Europe
-  (COM (2010) 245);
+- A **Central Coordination Authority**, represented by OpenPEPPOL, which is responsible for the governance of the central components of the infrastructure (Service Metadata Locator and Public Key Infrastructure) and of the system specifications, having the possibility to manage the areas of use (through the identification schemes) and having the tool to govern them. OpenPEPPOL guarantees the consistency and technical, semantic and organizational interoperability of the infrastructure, as required by the Digital Agenda for Europe (COM (2010) 245);
 
-- un **livello periferico** (che ha competenze sul dominio nazionale
-  dell’infrastruttura PEPPOL), rappresentato dalle PEPPOL Authority, cui è
-  delegata la governance sull’effettiva implementazione e l’uso degli Access
-  Point e dei Service Metadata Publisher presenti nel dominio di competenza.
+- a **peripheral level** (which has jurisdiction over the national domain of the PEPPOL infrastructure), represented by the PEPPOL Authority, which is responsible for the governance of the effective implementation and use of Access Points and Service Metadata Publisher in the domain of competence.
 
-I rapporti tra i diversi soggetti a vario titolo interessati (quindi anche
-quelli tra i Service Provider e le Authority) sono regolati da un insieme di
-Agreement, i cui contenuti sono gestiti da OpenPEPPOL.
+The relationships between the various parties involved in various capacities (therefore also those between Service Providers and Authorities) are governed by a set of Agreements, whose contents are managed by OpenPEPPOL.
 
-Ulteriori informazioni sulla governance di PEPPOL sono reperibili all’indirizzo
-https://peppol.eu/about-openpeppol/openpeppol-organisation/.
+Further information on the governance of PEPPOL can be found at https://peppol.eu/about-openpeppol/openpeppol-organisation/.
 
-AGID ricopre il ruolo di PEPPOL Authority in Italia e svolge le seguenti
-funzioni:
+AGID plays the role of PEPPOL Authority in Italy and performs the following functions:
 
-- qualifica i soggetti che intendono divenire Access Point provider, fornendo
-  supporto nelle fasi di test e validazione degli AP
+- qualifies the subjects who intend to become Access Point providers, providing support in the AP testing and validation phases
 
-- gestisce il Service Metadata Publisher PEPPOL italiano centralizzato,
-  contenente l’elenco di tutte le Pubbliche Amministrazioni abilitate alla
-  ricezione dei messaggi PEPPOL
+- manages the PEPPOL centralized Italian Service Metadata Publisher, containing the list of all Public Administrations enabled to receive PEPPOL messages
 
-- monitora il rispetto degli aspetti legali e delle policy PEPPOL previste per
-  gli Access Point provider
+- monitors compliance with the legal aspects and PEPPOL policies envisaged for access point providers
 
-- fornisce supporto informativo agli utilizzatori dell’infrastruttura PEPPOL
+- provides information support to users of the PEPPOL infrastructure
 
-AGID indica anche le estensioni nazionali delle specifiche PEPPOL BIS per lo
-scambio di messaggi in conformità alla normativa italiana.
+AGID also indicates the national extensions of the PEPPOL BIS specifications for the exchange of messages in accordance with Italian legislation.
