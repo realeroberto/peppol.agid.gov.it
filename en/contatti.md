@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contatti
+title: Contacts
 description: 
 lang: en
-ref: contatti
+ref: contacts
 order: 9
 ---
 
