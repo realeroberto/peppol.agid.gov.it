@@ -1,27 +1,19 @@
 ---
 layout: page
-title: Qualificazione AP/SMP
+title: Qualification AP/SMP
 description: 
 lang: en
-ref: qualificazione-ap-smp
+ref: qualification-ap-smp
 order: 4
 ---
 
-Per aderire come AP/SMP Provider:
+To join as an AP / SMP Provider:
 
-1. inviare una email a peppol@agid.gov.it manifestando l'intenzione di diventare
-   AP/SMP Provider
-2. seguire la procedura di iscrizione obbligatoria all’associazione OpenPEPPOL;
-3. scaricare l'accordo per Access Point e/o l'accordo SMP provider insieme ai 6
-   allegati disponibili in fondo a questa pagina;
-4. compilare le informazioni contenute nell'Allegato 1, nell'Allegato 5,
-   nell’Accordo AP e nell’Accordo SMP;
-5. firmare digitalmente la documentazione e inviarla via PEC all'indirizzo
-   protocollo@pec.agid.gov.it insieme al certificato di iscrizione al Registro
-   Imprese;
-6. AGID richiede quindi all'autorità competente il rilascio dei certificati
-   digitali che il Service Provider utilizzerà per i test
-7. al termine dei test e delle verifiche di interoperabilità AGID trasmette al
-   Service Provider l'accordo (o gli accordi) firmati digitalmente
-8. AGID richiede all'autorità competente il rilascio dei certificati di
-   produzione con i quali il Service Provider è abilitato a operare come AP/SMP
+1. send an email to peppol@agid.gov.it showing the intention to become AP / SMP Provider
+2. follow the procedure of mandatory registration to the OpenPEPPOL association;
+3. download the Access Point agreement and / or the SMP provider agreement together with the 6 attachments available at the bottom of this page;
+4. fill in the information contained in Annex 1, in Annex 5, in the AP Agreement and in the SMP Agreement;
+5. digitally sign the documentation and send it via PEC to the address protocol@pec.agid.gov.it together with the certificate of registration in the Business Register;
+6. AGID then requests the competent authority to issue the digital certificates that the Service Provider will use for the tests
+7. at the end of the tests and interoperability checks AGID sends the digitally signed agreement (or agreements) to the Service Provider
+8. AGID requests the issuing of certificates from production with which the Service Provider is authorized to operate as AP / SMP
