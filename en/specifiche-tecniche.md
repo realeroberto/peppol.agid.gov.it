@@ -1,17 +1,13 @@
 ---
 layout: page
-title: Specifiche tecniche
+title: Technical specifications
 description: 
 lang: en
-ref: specifiche-tecniche
+ref: technical-specifications
 order: 6
 ---
 
-Le specifiche tecniche e le implementazioni di seguito riportate costituiscono
-l'estensione italiana delle specifiche OpenPEPPOL, che recepiscono le regole
-italiane per l'utilizzo di documenti di business.
+The technical specifications and implementations shown below constitute the Italian extension of the OpenPEPPOL specifications, which incorporate the Italian rules for the use of business documents.
 
-- [Specifiche tecniche mantenute da OpenPEPPOL e relative ai processi di
-  post-award](https://peppol.eu/downloads/post-award/);
-- [Estensioni delle suddette specifiche valide per
-  l'Italia](http://intercenter.regione.emilia-romagna.it/noti-er-fatturazione-elettronica/specifiche-tecniche).
+- [Technical specifications maintained by OpenPEPPOL and related to post-award processes](https://peppol.eu/downloads/post-award/);
+- [Extensions of the aforementioned specifications valid for Italy](http://intercenter.regione.emilia-romagna.it/noti-er-fatturazione-elettronica/specifiche-tecniche).
