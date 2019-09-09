@@ -17,6 +17,12 @@
   sede_legale: Via Isonzo 19/E - 00198 Rome
   contact_point: Luca Mastrogregori
   contact_info: luca.mastrogregori@consip.it
+- ragione_sociale: Doxee S.p.A.
+  ap: true
+  smp: false
+  sede_legale: Viale Virgilio 45/b - 41123 Modena
+  contact_point: Ismaele El Swaky
+  contact_info: peppolservice@doxee.com
 - ragione_sociale: EDICOM S.r.l.
   ap: true
   smp: false
