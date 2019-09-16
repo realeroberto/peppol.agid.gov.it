@@ -17,6 +17,12 @@
   sede_legale: Via Isonzo 19/E - 00198 Rome
   contact_point: Luca Mastrogregori
   contact_info: luca.mastrogregori@consip.it
+- ragione_sociale: DocuMi S.r.l.
+  ap: true
+  smp: true
+  sede_legale: Via Emanule Filiberto, 4 - 20149 Milano
+  contact_point: Andrea Fumagalli
+  contact_info: andrea.fumagalli@documi.it
 - ragione_sociale: Doxee S.p.A.
   ap: true
   smp: true
@@ -59,6 +65,12 @@
   sede_legale: Via dei Mille, 21 - 40121 Bologna
   contact_point: Elisa Bertocchi
   contact_info: elisa.bertocchi@regione.emilia-romagna.it
+- ragione_sociale: Intesi Group S.p.A.
+  ap: true
+  smp: true
+  sede_legale: Via Torino, 28 - 20123 Milano
+  contact_point: Giuseppe Damiano
+  contact_info: g.damiano@intesigroup.com
 - ragione_sociale: S.A.T.A. Applicazione Tecnologie Avanzate S.r.l.
   ap: true
   smp: false
