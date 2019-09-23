@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Home
-hero_title: Migliorare gli appalti pubblici
-hero_description: PEPPOL consente alle imprese di tutta Europa di comunicare elettronicamente con gli acquirenti pubblici in varie fasi della procedura di appalto.
+hero_title: Improve public procurement
+hero_description: PEPPOL allows companies across Europe to communicate electronically with public purchasers at various stages of the procurement procedure.
 lang: en
 ref: homepage
 order: 1
