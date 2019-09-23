@@ -3,7 +3,7 @@ layout: page
 title: Technical specifications
 description: 
 lang: en
-ref: technical-specifications
+ref: specifiche-tecniche
 order: 6
 ---
 

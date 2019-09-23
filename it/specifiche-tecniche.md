@@ -15,3 +15,4 @@ italiane per l'utilizzo di documenti di business.
   post-award](https://peppol.eu/downloads/post-award/);
 - [Estensioni delle suddette specifiche valide per
   l'Italia](http://intercenter.regione.emilia-romagna.it/noti-er-fatturazione-elettronica/specifiche-tecniche).
+  

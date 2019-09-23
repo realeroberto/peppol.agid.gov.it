@@ -5,6 +5,7 @@ description:
 lang: it
 ref: nso
 order: 6
+child_of_ref: e-procurement
 ---
 
 A partire dal 1 ° ottobre 2019, gli acquisti pubblici legati al settore sanitario saranno gestiti 
@@ -37,4 +38,4 @@ al seguente link (https://www.fatturapa.gov.it/export/fatturazione/en/normativa/
 
 Tuttavia, uno scenario complesso che richiede al fornitore di rispondere all'acquirente (come "Ordine" e "Contratto di ordine") 
 potrebbe richiedere azioni diverse ai fornitori di servizi AP. Maggiori specifiche sono disponibili sul sito web 
-del MEF [pagina dedicata](http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/)
+del MEF [pagina dedicata](http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/).

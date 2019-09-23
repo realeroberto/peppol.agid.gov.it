@@ -3,7 +3,7 @@ layout: page
 title: About PEPPOL
 description: 
 lang: en
-ref: about-peppol
+ref: cos-e-peppol
 order: 3
 ---
 

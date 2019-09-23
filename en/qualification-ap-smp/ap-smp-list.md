@@ -3,9 +3,9 @@ layout: page
 title: AP/SMP list 
 description: 
 lang: en
-ref: list-ap-smp
+ref: elenco-ap-smp
 order: 5
-child_of_ref: qualification-ap-smp
+child_of_ref: qualificazione-ap-smp
 last_update: 03/04/2019
 ---
 

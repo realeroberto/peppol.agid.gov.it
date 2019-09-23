@@ -3,7 +3,7 @@ layout: page
 title: About us
 description: 
 lang: en
-ref: about-us
+ref: chi-siamo
 order: 2
 ---
 

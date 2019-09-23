@@ -20,8 +20,8 @@ Per aderire come AP/SMP Provider:
    protocollo@pec.agid.gov.it insieme al certificato di iscrizione al Registro
    Imprese;
 6. AGID richiede quindi all'autorità competente il rilascio dei certificati
-   digitali che il Service Provider utilizzerà per i test
+   digitali che il Service Provider utilizzerà per i test;
 7. al termine dei test e delle verifiche di interoperabilità AGID trasmette al
-   Service Provider l'accordo (o gli accordi) firmati digitalmente
+   Service Provider l'accordo (o gli accordi) firmati digitalmente;
 8. AGID richiede all'autorità competente il rilascio dei certificati di
-   produzione con i quali il Service Provider è abilitato a operare come AP/SMP
+   produzione con i quali il Service Provider è abilitato a operare come AP/SMP.
