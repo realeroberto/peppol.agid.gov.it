@@ -6,6 +6,7 @@ hero_description: PEPPOL consente alle imprese di tutta Europa di comunicare ele
 lang: it
 ref: homepage
 order: 1
+permalink: /
 ---
 
 {% include hero.html %}
