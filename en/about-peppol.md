@@ -7,14 +7,25 @@ ref: cos-e-peppol
 order: 3
 ---
 
-The Pan-European Public Procurement Online (PEPPOL) is a pilot project promoted by the European Commission to identify a set of infrastructural elements and technical specifications that enable and facilitate the e-Procurement procedures.
+The Pan-European Public Procurement Online (PEPPOL) began as a project initiative 
+on the subject of digital purchases promoted by the European Commission in the period 
+between 2008 and 2012.
 
-Following the conclusion of the project, which took place in 2012, the OpenPEPPOL association took over the management of the fundamental components of the system, namely: the PEPPOL eDelivery Network network infrastructure, the specifications for the interoperability of PEPPOL Business Interoperability Specifications ( BIS), the agreements governing the use of the PEPPOL Transport Infrastructure Agreements (TIA) network.
+At the end of the project the OpenPEPPOL association took over the governance of the fundamental components of the system.
+PEPPOL is a set of infrastructural elements and technical specifications promoted by the European Commission in the context 
+of the CEF initiatives and which make interoperability between the various e-procurement systems possible, cross-border.
+The fundamental components of the system are: the PEPPOL eDelivery Network network infrastructure, the specifications 
+for the interoperability of the PEPPOL Business Interoperability Specifications (BIS) business documents, 
+the agreements regulating the use of the PEPPOL Transport Infrastructure Agreements (TIA) network .
 
-AGID coordinates the activities aimed at the adoption of e-Procurement in the public sector and defines the technical rules for the interoperability of the systems involved.
+AGID coordinates the activities aimed at the adoption of e-Procurement in the public sector 
+and defines the technical rules for the interoperability of the systems involved.
 
-With the Circular letter n. 3 of 6 December 2016, which defines the additional technical rules to guarantee the communication and sharing of data between the electronic purchasing and trading systems, AGID has introduced PEPPOL as a reference architecture to guarantee interoperability in public e-Procurement.
-pubblico.
+With the Circular letter n. 3 of 6 December 2016, which defines the additional technical 
+rules to guarantee the communication and sharing of data between the electronic purchasing 
+and trading systems, AGID has introduced PEPPOL as a reference architecture to guarantee 
+interoperability in public e-Procurement.
+
 
 ## How does PEPPOL work?
 

@@ -7,17 +7,21 @@ ref: cos-e-peppol
 order: 3
 ---
 
-Il Pan-European Public Procurement On-Line (PEPPOL) è un progetto pilota
-promosso dalla Commissione Europea per individuare un insieme di elementi
-infrastrutturali e di specifiche tecniche che abilitino e facilitino le
-procedure di e-Procurement.
+Il Pan-European Public Procurement On-Line (PEPPOL) nasce come una iniziativa 
+progettuale  sul tema degli acquisti digitali promossa dalla Commissione Europea 
+nel periodo compreso tra il 2008 e il 2012.
+Alla conclusione del progetto l’associazione OpenPEPPOL ha assunto 
+il governo delle componenti fondamentali del sistema.
 
-Successivamente alla conclusione del progetto, avvenuta nel 2012, l’associazione
-OpenPEPPOL ha assunto il governo delle componenti fondamentali del sistema,
-ovvero: l’infrastruttura di rete PEPPOL eDelivery Network, le specifiche per
-l’interoperabilità dei documenti di Business PEPPOL Business Interoperability
-Specifications (BIS), gli accordi che regolano l’utilizzo della rete PEPPOL
-Transport Infrastructure Agreements (TIA).
+PEPPOL è un insieme di elementi infrastrutturali e di specifiche tecniche 
+promosse dalla Commissione Europea nell’ambito delle iniziative CEF e che 
+rendono possibile l’interoperabilità tra i vari sistemi di e-procurement, 
+a livello transfrontaliero.
+Le componenti fondamentali del sistema sono: l’infrastruttura di rete 
+PEPPOL eDelivery Network, le specifiche per l’interoperabilità dei 
+documenti di Business PEPPOL Business Interoperability Specifications (BIS), 
+gli accordi che regolano l’utilizzo della rete PEPPOL Transport Infrastructure 
+Agreements (TIA).
 
 AGID coordina le attività finalizzate all’adozione dell’e-Procurement nel
 settore pubblico e definisce le regole tecniche per l’interoperabilità dei
