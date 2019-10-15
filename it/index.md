@@ -6,7 +6,9 @@ hero_description: PEPPOL consente alle imprese di tutta Europa di comunicare ele
 lang: it
 ref: homepage
 permalink: /
-redirect_from: /it
+redirect_from:
+ - /it/
+ - /it
 ---
 {% capture hero_text %}
 Il Pan-European Public Procurement On-Line (PEPPOL) è un progetto pilota
