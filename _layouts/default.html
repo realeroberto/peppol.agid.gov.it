@@ -11,8 +11,9 @@
 </head>
 
 <body>
+  {%- include skiplinks.html -%}
   {%- include header/header.html -%}
-  {{ content }}
+  <div id="main">{{ content }}</div>
   {%- include footer/footer.html -%}
   {%- include cookiebar.html -%}
   {%- include scripts.html -%}

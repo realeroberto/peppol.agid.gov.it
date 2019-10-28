@@ -56,6 +56,15 @@ cookie-policy-info:
 cookie-policy-accept-btn:
   en: "Ok"
   it: "Accetto"
+main-nav:
+  en: "main menu"
+  it: "menu principale"
+toggle-nav:
+  en: "toggle navigation"
+  it: "mostra o nascondi il menu di navigazione"
+slim-nav:
+  en: "institutional websites navigation"
+  it: "navigazione siti istituzionali"
 footer-links:
   en:
     privacy-policy:
