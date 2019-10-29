@@ -15,7 +15,7 @@ is the central gateway for exchanging eOrders between public bodies and supplier
 
 The eOrder format adopted by NSO is compliant with the PEPPOL BIS 3.0 technical specifications, available at this [link](https://docs.peppol.eu/poacc/upgrade-3/).
 
-More information on NSO can be found on the [MEF website](http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/)
+More information on NSO can be found on the <a aria-label="Ministry of Economy and Finance - External link" href="http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/" title="External link">MEF website</a>.
 
 PPEPPOL, among other channels, is supported by NSO as official infrastructure for transmitting eOrders.
 
@@ -32,8 +32,8 @@ then there are no actions to be taken as the PEPPOL specifications will be enoug
 Instead, if you are an AP Service Provider that acts as intermediary for an Italian public administration (buyer),
 then you need to adopt one of the channels available to communicate with NSO for the validation step prior to forwarding
 the eOrder on the PEPPOL network. The channels are the same available for the SdI, the national Invoice Exchange Gateway;
-more information are available at the following [link](https://www.fatturapa.gov.it/export/fatturazione/en/normativa/f-3.htm)
+more information are available at the following <a aria-label="FatturaPa - External link" href="https://www.fatturapa.gov.it/export/fatturazione/en/normativa/f-3.htm" title="External link">link</a>.
 
 Nevertheless, complex scenario that require the supplier to reply to the buyer (like “Ordering” and “Order agreement”)
 could require different actions to the AP Service Providers. More detailed specifications are available on the
-[MEF website](http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/).
+<a aria-label="Ministry of Economy and Finance - External link" href="http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/" title="External link">MEF website</a>.

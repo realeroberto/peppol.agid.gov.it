@@ -18,7 +18,7 @@ Il formato del documento eOrder adottato da NSO è conforme alle specifiche tecn
 disponibili al seguente [link](https://docs.peppol.eu/poacc/upgrade-3/).
 
 Maggiori informazioni su NSO sono disponibili sul
-[sito web](http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/) del MEF.
+<a aria-label="Ministero dell'Economia e delle Finanze - Collegamento a sito esterno" href="http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/" title="Collegamento a sito esterno">sito web</a> del MEF.
 
 PEPPOL, tra gli altri canali, è supportato da NSO come infrastruttura ufficiale per la trasmissione di eOrder.
 
@@ -36,8 +36,8 @@ Invece, se sei un AP Service Provider che funge da intermediario per una pubblic
 devi adottare uno dei canali disponibili per comunicare con NSO per la fase di convalida prima di inoltrare l'eOrder
 sulla rete PEPPOL. I canali sono gli stessi disponibili per SdI, il Sistema di Interscambio nazionale delle fatture
 elettroniche; maggiori informazioni sono disponibili
-al seguente [link](https://www.fatturapa.gov.it/export/fatturazione/en/normativa/f-3.htm).
+al seguente <a aria-label="FatturaPa - Collegamento a sito esterno" href="https://www.fatturapa.gov.it/export/fatturazione/en/normativa/f-3.htm" title="Collegamento a sito esterno">link</a>.
 
 Tuttavia, uno scenario complesso che richiede al fornitore di rispondere all'acquirente (come "Ordine" e "Contratto di ordine")
 potrebbe richiedere azioni diverse ai fornitori di servizi AP. Maggiori specifiche sono disponibili sul
-[sito web](http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/) del MEF.
+<a aria-label="Ministero dell'Economia e delle Finanze - Collegamento a sito esterno" href="http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/" title="Collegamento a sito esterno">sito web</a> del MEF.

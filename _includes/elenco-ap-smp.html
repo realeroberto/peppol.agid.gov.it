@@ -4,7 +4,7 @@
         <thead>
             <tr>
                 <th scope="col">Ragione sociale</th>
-                <th scope="col">AP</th>
+                <th scope="col"><abbr title="Access Point">AP</abbr></th>
                 <th scope="col">SMP</th>
                 <th scope="col">Sede legale</th>
                 <th scope="col">Punto di contatto</th>
@@ -15,14 +15,14 @@
             {% for entry in site.data.elenco-ap-smp %}
             <tr>
                 <td>{{ entry.ragione_sociale }}</td>
-                <td>
+                <td aria-label="{{ site.data.t.ap-recognized[entry.ap][page.lang] }}">
                 {% if entry.ap %}
                 <svg class="icon icon-success"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-check-circle"></use></svg>
                 {% else %}
                 <svg class="icon icon-danger"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-close-circle"></use></svg>
                 {% endif %}
                 </td>
-                <td>
+                <td aria-label="{{ site.data.t.smp-recognized[entry.smp][page.lang] }}">
                 {% if entry.smp %}
                 <svg class="icon icon-success"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-check-circle"></use></svg>
                 {% else %}

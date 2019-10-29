@@ -75,3 +75,7 @@
 .navbar.it-bottom-navscroll {
   z-index: 1;
 }
+
+.skiplinks a:focus {
+  border: 2px solid #f90;
+}

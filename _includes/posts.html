@@ -19,7 +19,7 @@
             {% endif %}
             <span class="card-text">{{ post.excerpt }}</span>
             <span class="card-signature">{{ post.author }}</span>
-            <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">
+            <a aria-label="{{ site.data.t.read-more[page.lang] }}: {{ post.title }}" class="read-more" href="{{ site.baseurl }}{{ post.url }}">
               <span class="text">Leggi di più</span>
               <svg class="icon">
                 <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-arrow-right"></use>

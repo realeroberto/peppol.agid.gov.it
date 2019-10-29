@@ -65,6 +65,23 @@ toggle-nav:
 slim-nav:
   en: "institutional websites navigation"
   it: "navigazione siti istituzionali"
+ap-recognized:
+  true:
+    en: "Recognized as Access Point"
+    it: "Riconosciuto come Access Point"
+  false:
+    en: "Not recognized as Access Point"
+    it: "Non riconosciuto come Access Point"
+smp-recognized:
+  true:
+    en: "Recognized as Service Metadata Publisher"
+    it: "Riconosciuto come Service Metadata Publisher"
+  false:
+    en: "Not recognized as Service Metadata Publisher"
+    it: "Non riconosciuto come Service Metadata Publisher"
+read-more:
+  en: "Read more about"
+  it: "Leggi di più su"
 footer-links:
   en:
     privacy-policy:
