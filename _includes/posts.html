@@ -17,7 +17,7 @@
             {% if post.categories.size > 0 %}
             <h6 class="card-subtitle">{% for category in post.categories %}{{ category }} {% endfor %}</h6>
             {% endif %}
-            <span class="card-text">{{ post.excerpt }}</span>
+            <div class="card-text">{{ post.excerpt }}</div>
             <span class="card-signature">{{ post.author }}</span>
             <a aria-label="{{ site.data.t.read-more[page.lang] }}: {{ post.title }}" class="read-more" href="{{ site.baseurl }}{{ post.url }}">
               <span class="text">Leggi di più</span>

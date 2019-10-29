@@ -15,7 +15,7 @@ amministrazione" gestito dal Ministero dell'Economia e delle Finanze (MEF), è i
 lo scambio di ordini elettronici tra enti pubblici e fornitori.
 
 Il formato del documento eOrder adottato da NSO è conforme alle specifiche tecniche PEPPOL BIS 3.0,
-disponibili al seguente [link](https://docs.peppol.eu/poacc/upgrade-3/).
+disponibili al seguente <a aria-label="PEPPOL BIS 3.0 - Collegamento a sito esterno" href="https://docs.peppol.eu/poacc/upgrade-3/" title="Collegamento a sito esterno">link</a>.
 
 Maggiori informazioni su NSO sono disponibili sul
 <a aria-label="Ministero dell'Economia e delle Finanze - Collegamento a sito esterno" href="http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/" title="Collegamento a sito esterno">sito web</a> del MEF.

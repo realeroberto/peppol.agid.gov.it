@@ -13,7 +13,7 @@ purchasing in the public procurement process related to health sector will be ha
 NSO, the “Sorting node for public administration purchase orders” managed by the Ministry of Economy and Finance (MEF),
 is the central gateway for exchanging eOrders between public bodies and suppliers.
 
-The eOrder format adopted by NSO is compliant with the PEPPOL BIS 3.0 technical specifications, available at this [link](https://docs.peppol.eu/poacc/upgrade-3/).
+The eOrder format adopted by NSO is compliant with the PEPPOL BIS 3.0 technical specifications, available at this <a aria-label="PEPPOL BIS 3.0 - External link" href="https://docs.peppol.eu/poacc/upgrade-3/" title="External link">link</a>.
 
 More information on NSO can be found on the <a aria-label="Ministry of Economy and Finance - External link" href="http://www.rgs.mef.gov.it/VERSIONE-I/e_government/amministrazioni_pubbliche/acquisti_pubblici_in_rete_apir/nodo_di_smistamento_degli_ordini_di_acquisto_delle_amministrazioni_pubbliche_nso/" title="External link">MEF website</a>.
 
