@@ -10,6 +10,10 @@ redirect_from:
  - /it/
  - /it
 ---
+{% capture hero_title %}
+Cos'è PEPPOL?
+{% endcapture %}
+
 {% capture hero_text %}
 Il Pan-European Public Procurement On-Line (PEPPOL) è un progetto pilota
 promosso dalla Commissione Europea per individuare un insieme di elementi

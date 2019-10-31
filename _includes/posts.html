@@ -19,8 +19,8 @@
             {% endif %}
             <div class="card-text">{{ post.excerpt }}</div>
             <span class="card-signature">{{ post.author }}</span>
-            <a aria-label="{{ site.data.t.read-more[page.lang] }}: {{ post.title }}" class="read-more" href="{{ site.baseurl }}{{ post.url }}">
-              <span class="text">Leggi di più</span>
+            <a aria-label="{{ site.data.t.read-more-about[page.lang] }}: {{ post.title }}" class="read-more" href="{{ site.baseurl }}{{ post.url }}">
+              <span class="text">{{ site.data.t.read-more[page.lang] }}</span>
               <svg class="icon">
                 <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-arrow-right"></use>
               </svg>

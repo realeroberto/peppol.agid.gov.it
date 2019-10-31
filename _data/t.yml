@@ -50,12 +50,30 @@ italian-version:
 english-version:
   en: "English version"
   it: "Versione inglese"
+3y-plan:
+  en: "Three-Year Plan"
+  it: "Piano triennale"
 cookie-policy-info:
   en: "This site uses technical, analytics and third-party cookies <br>By continuing to browse, you accept the use of cookies."
   it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
 cookie-policy-accept-btn:
   en: "Ok"
   it: "Accetto"
+goto:
+  en: "Go to"
+  it: "Vai a"
+selection:
+  en: "Selection"
+  it: "Selezione"
+go-to-main:
+  en: "Go to the main content"
+  it: "Vai al contenuto principale"
+follow-us:
+  en: "Follow us"
+  it: "Seguici su"
+go-home:
+  en: "Go to home page"
+  it: "Vai alla home page"
 main-nav:
   en: "main menu"
   it: "menu principale"
@@ -79,9 +97,27 @@ smp-recognized:
   false:
     en: "Not recognized as Service Metadata Publisher"
     it: "Non riconosciuto come Service Metadata Publisher"
-read-more:
+read-more-about:
   en: "Read more about"
   it: "Leggi di più su"
+read-more:
+  en: "Read more"
+  it: "Leggi di più"
+last-update:
+  en: "Last update"
+  it: "Ultimo aggiornamento"
+business-name:
+  en: "Business name"
+  it: "Ragione sociale"
+registered-office:
+  en: "Registered office"
+  it: "Sede legale"
+contact-point:
+  en: "Contact point"
+  it: "Punto di contatto"
+contact-info:
+  en: "Contact informations"
+  it: "Informazioni di contatto"
 footer-links:
   en:
     privacy-policy:

@@ -13,7 +13,7 @@ Le pagine che vengono incluse in questo menù sono un sottoinsieme di tutte le p
         <div class="col-12">
           <div class="it-header-center-content-wrapper">
             <div class="it-brand-wrapper">
-              <a href="{{ site.baseurl }}/{{ page.lang }}/" data-proofer-ignore>
+              <a href="{{ site.baseurl }}/{{ page.lang }}/" aria-label="Header - {{ site.data.t.go-home[page.lang] }}" data-proofer-ignore>
                 <img class="icon" src="{{ site.baseurl }}{{ site.data.t.icon }}" alt="{{ site.name }} logo">
                 <div class="it-brand-text">
                   <h2 class="no_toc">{{ site.data.t.name[page.lang] }}</h2>
@@ -23,7 +23,7 @@ Le pagine che vengono incluse in questo menù sono un sottoinsieme di tutte le p
             </div>
             <div class="it-right-zone">
               <div class="it-socials d-none d-md-flex">
-                <span>Seguici su</span>
+                <span>{{ site.data.t.follow-us[page.lang] }}</span>
                 <ul>
                   {% for social-link in site.data.t.social-links[page.lang] %}
                   <li class="list-inline-item">
@@ -92,8 +92,8 @@ Le pagine che vengono incluse in questo menù sono un sottoinsieme di tutte le p
                   </li>
                   {% else %}
                   <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-expanded="false">
-                      <span>{{menu_page.title}}</span>
+                    <a class="nav-link dropdown-toggle" aria-label="{{ menu_page.title }} {{ site.data.t.selection[page.lang] }}" href="#" data-toggle="dropdown" aria-expanded="false">
+                      <span>{{ menu_page.title }}</span>
                       <svg class="icon icon-xs">
                         <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-expand">
                         </use>
@@ -102,12 +102,10 @@ Le pagine che vengono incluse in questo menù sono un sottoinsieme di tutte le p
                     <div class="dropdown-menu">
                       <div class="link-list-wrapper">
                         <ul class="link-list">
-                          <li><a class="list-item"
-                              href="{{ site.baseurl }}{{ menu_page.url }}"><span>{{menu_page.title}}</span></a></li>
+                          <li><a class="list-item" aria-label="{{ site.data.t.goto[page.lang] }} {{ menu_page.title }}" href="{{ site.baseurl }}{{ menu_page.url }}"><span>{{ menu_page.title }}</span></a></li>
                           <li><span class="divider"></span></li>
                           {% for menu_child_page in current_lang_menu_child_pages %}
-                          <li><a class="list-item"
-                              href="{{ site.baseurl }}{{ menu_child_page.url }}"><span>{{menu_child_page.title}}</span></a>
+                          <li><a class="list-item" aria-label="{{ site.data.t.goto[page.lang] }} {{ menu_child_page.title }}" href="{{ site.baseurl }}{{ menu_child_page.url }}"><span>{{ menu_child_page.title }}</span></a>
                           </li>
                           {% endfor %}
                         </ul>

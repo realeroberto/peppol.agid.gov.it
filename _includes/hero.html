@@ -22,10 +22,10 @@
       <div class="card-wrapper card-space">
         <div class="card card-bg">
           <div class="card-body">
-            <h5 class="card-title">Cos'è PEPPOL?</h5>
+            <h5 class="card-title">{{ include.title }}</h5>
             <p class="card-text">{{ include.text }}</p>
             <a class="read-more" href="{{ site.baseurl }}/it/cos-e-peppol">
-              <span class="text">Leggi di più</span>
+              <span class="text">{{ site.data.t.read-more[page.lang] }}</span>
               <svg class="icon">
                 <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-arrow-right"></use>
               </svg>
