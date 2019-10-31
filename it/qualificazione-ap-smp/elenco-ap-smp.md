@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elenco AP/SMP
-description: 
+description:
 lang: it
 ref: elenco-ap-smp
 order: 5
@@ -12,4 +12,4 @@ last_update: 03/04/2019
 Di seguito è possibile visionare l'elenco dei PEPPOL Access Point Provider
 riconosciuti dalla PEPPOL Authority italiana.
 
-{% include elenco-ap-smp.html %}
+{% include ap-smp-list.html %}

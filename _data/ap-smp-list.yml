@@ -1,110 +1,109 @@
 
-- ragione_sociale: Able Tech S.r.l
+- business_name: Able Tech S.r.l
   ap: true
   smp: false
-  sede_legale: Via dell'Artigianato, 9/a - 25018 Montichiari (BS)
+  registered_office: Via dell'Artigianato, 9/a - 25018 Montichiari (BS)
   contact_point: Riccardo Zanardini
   contact_info: peppolap@abletech.it
-- ragione_sociale: Archiva S.r.l
+- business_name: Archiva S.r.l
   ap: true
   smp: true
-  sede_legale: Via Spagna, 24 - 37069 Villafranca di Verona
+  registered_office: Via Spagna, 24 - 37069 Villafranca di Verona
   contact_point: Archiva
   contact_info: peppol@archivagroup.it
-- ragione_sociale: Archivium S.r.l
+- business_name: Archivium S.r.l
   ap: true
   smp: true
-  sede_legale: Corso Francia, 233/D - 10098 Rivoli (TO)
+  registered_office: Corso Francia, 233/D - 10098 Rivoli (TO)
   contact_point: Giorgio Saglio
   contact_info: saglio@archivium.digital
-- ragione_sociale: Consip S.p.A.
+- business_name: Consip S.p.A.
   ap: true
   smp: true
-  sede_legale: Via Isonzo 19/E - 00198 Rome
+  registered_office: Via Isonzo 19/E - 00198 Rome
   contact_point: Luca Mastrogregori
   contact_info: luca.mastrogregori@consip.it
-- ragione_sociale: DocuMi S.r.l.
+- business_name: DocuMi S.r.l.
   ap: true
   smp: true
-  sede_legale: Via Emanule Filiberto, 4 - 20149 Milano
+  registered_office: Via Emanule Filiberto, 4 - 20149 Milano
   contact_point: Andrea Fumagalli
   contact_info: andrea.fumagalli@documi.it
-- ragione_sociale: Doxee S.p.A.
+- business_name: Doxee S.p.A.
   ap: true
   smp: true
-  sede_legale: Viale Virgilio 48/b - 41123 Modena
+  registered_office: Viale Virgilio 48/b - 41123 Modena
   contact_point: Ismaele El Swaky
   contact_info: peppolservice@doxee.com
-- ragione_sociale: EDICOM S.r.l.
+- business_name: EDICOM S.r.l.
   ap: true
   smp: false
-  sede_legale: Viale Francesco restelli 3/1 - 20124 Milano
+  registered_office: Viale Francesco restelli 3/1 - 20124 Milano
   contact_point: Juan Francisco Baldovi Ortells
   contact_info: jbaldovi@edicomgroup.com
-- ragione_sociale: Enerj S.r.l.
+- business_name: Enerj S.r.l.
   ap: true
   smp: true
-  sede_legale: Via Diaz, 4 - 37015 Sant'Ambrogio di Valpolicella (VR)
+  registered_office: Via Diaz, 4 - 37015 Sant'Ambrogio di Valpolicella (VR)
   contact_point: Mauro Recchia
   contact_info: peppol@enerj.it
-- ragione_sociale: IN.TE.SA S.p.A.
+- business_name: IN.TE.SA S.p.A.
   ap: true
   smp: false
-  sede_legale: Strada Pianezza, 289 - 10151 Torino
+  registered_office: Strada Pianezza, 289 - 10151 Torino
   contact_point: Piera Casalone
   contact_info: peppol_team@intesa.it
-- ragione_sociale: Infocamere ScPA
+- business_name: Infocamere ScPA
   ap: true
   smp: true
-  sede_legale: Via G. B. Morgagni, 13 - 00161 Roma
+  registered_office: Via G. B. Morgagni, 13 - 00161 Roma
   contact_point: Luigi Pallottini
   contact_info: luigi.pallottini@infocamere.it
-- ragione_sociale: Infocert S.p.A.
+- business_name: Infocert S.p.A.
   ap: true
   smp: false
-  sede_legale: Piazza Sallustio, 9 - 00187 Roma
+  registered_office: Piazza Sallustio, 9 - 00187 Roma
   contact_point: Fabrizio Leoni
   contact_info: fabrizio.leoni@infocert.it
-- ragione_sociale: Intercent-ER - Agenzia regionale per lo sviluppo dei mercati telematici
+- business_name: Intercent-ER - Agenzia regionale per lo sviluppo dei mercati telematici
   ap: true
   smp: true
-  sede_legale: Via dei Mille, 21 - 40121 Bologna
+  registered_office: Via dei Mille, 21 - 40121 Bologna
   contact_point: Elisa Bertocchi
   contact_info: elisa.bertocchi@regione.emilia-romagna.it
-- ragione_sociale: Intesi Group S.p.A.
+- business_name: Intesi Group S.p.A.
   ap: true
   smp: true
-  sede_legale: Via Torino, 28 - 20123 Milano
+  registered_office: Via Torino, 28 - 20123 Milano
   contact_point: Giuseppe Damiano
   contact_info: g.damiano@intesigroup.com
-- ragione_sociale: Link Service S.r.l.
+- business_name: Link Service S.r.l.
   ap: true
   smp: true
-  sede_legale: Via Lusitania, 4 - 00183 Roma
+  registered_office: Via Lusitania, 4 - 00183 Roma
   contact_point: Alessandro Giosuè Sganga
   contact_info: alessandro.sganga@gmail.com
-- ragione_sociale: Master Soft S.r.l.
+- business_name: Master Soft S.r.l.
   ap: true
   smp: true
-  sede_legale: Piazzale Lombardia, 10 - 28100 Novara
+  registered_office: Piazzale Lombardia, 10 - 28100 Novara
   contact_point: Marco Tacchini
   contact_info: peppol@mastersoft.it
-- ragione_sociale: S.A.T.A. Applicazione Tecnologie Avanzate S.r.l.
+- business_name: S.A.T.A. Applicazione Tecnologie Avanzate S.r.l.
   ap: true
   smp: false
-  sede_legale: Via Notari, 103 - 41126 Modena
+  registered_office: Via Notari, 103 - 41126 Modena
   contact_point: Paola Daniela Monari
   contact_info: p.monari@satanet.it
-- ragione_sociale: STDM S.r.l
+- business_name: STDM S.r.l
   ap: true
   smp: false
-  sede_legale: Via U. Foscolo, 32/I - 37057 San Giovanni Lupatoto (VR)
+  registered_office: Via U. Foscolo, 32/I - 37057 San Giovanni Lupatoto (VR)
   contact_point: Massimo Zanforlin
   contact_info: segreteria@stdm.net
-- ragione_sociale: Tecmarket Servizi S.p.A.
+- business_name: Tecmarket Servizi S.p.A.
   ap: true
   smp: false
-  sede_legale: Via Meucci, 5 - 37135 Verona
+  registered_office: Via Meucci, 5 - 37135 Verona
   contact_point: Marco Marsilio
   contact_info: marco.marsilio@tecmarket.it
-  

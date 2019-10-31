@@ -1,20 +1,20 @@
 <div class="table-responsive">
     <table class="table table-sm table-striped">
-        <caption>Ultimo aggiornamento: {{ page.last_update }}</caption>
+        <caption>{{ site.data.t.last-update[page.lang] }}: {{ page.last_update }}</caption>
         <thead>
             <tr>
-                <th scope="col">Ragione sociale</th>
+                <th scope="col">{{ site.data.t.business-name[page.lang] }}</th>
                 <th scope="col"><abbr title="Access Point">AP</abbr></th>
                 <th scope="col"><abbr title="Service Metadata Publisher">SMP</abbr></th>
-                <th scope="col">Sede legale</th>
-                <th scope="col">Punto di contatto</th>
-                <th scope="col">Informazioni di contatto</th>
+                <th scope="col">{{ site.data.t.registered-office[page.lang] }}</th>
+                <th scope="col">{{ site.data.t.contact-point[page.lang] }}</th>
+                <th scope="col">{{ site.data.t.contact-info[page.lang] }}</th>
             </tr>
         </thead>
         <tbody>
-            {% for entry in site.data.elenco-ap-smp %}
+            {% for entry in site.data.ap-smp-list %}
             <tr>
-                <td>{{ entry.ragione_sociale }}</td>
+                <td>{{ entry.business_name }}</td>
                 <td aria-label="{{ site.data.t.ap-recognized[entry.ap][page.lang] }}">
                 {% if entry.ap %}
                 <svg class="icon icon-success"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-check-circle"></use></svg>
@@ -29,7 +29,7 @@
                 <svg class="icon icon-danger"><use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-close-circle"></use></svg>
                 {% endif %}
                 </td>
-                <td>{{ entry.sede_legale }}</td>
+                <td>{{ entry.registered_office }}</td>
                 <td>{{ entry.contact_point }}</td>
                 <td>{{ entry.contact_info }}</td>
             </tr>
