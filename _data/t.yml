@@ -118,14 +118,19 @@ contact-point:
 contact-info:
   en: "Contact informations"
   it: "Informazioni di contatto"
+back:
+  en: "Back"
+  it: "Indietro"
 footer-links:
   en:
     privacy-policy:
       name: "Privacy policy"
+      title: "Privacy policy"
       url: "https://www.agid.gov.it/it/privacy-policy"
   it:
     privacy-policy:
-      name: "Privacy policy"
+      name: '<span lang="en">Privacy policy</span>'
+      title: "Privacy policy"
       url: "https://www.agid.gov.it/it/privacy-policy"
 
 

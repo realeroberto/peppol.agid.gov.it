@@ -20,7 +20,7 @@ layout: default
       <li class="breadcrumb-item"><a href="/">Home</a><span class="separator">&gt;</span></li>
 
       {% for item in breadcrumbs %}
-      <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><span
+      <li class="breadcrumb-item"><a aria-label="Breadcrumbs - {{ site.data.goto[page.lang] }} {{ item.title }}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><span
           class="separator">&gt;</span>
       </li>
       {% endfor %}
@@ -54,27 +54,20 @@ layout: default
           </div>
           <a class="it-back-button" href="#"><svg class="icon icon-sm icon-primary align-top">
               <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-chevron-left"></use>
-            </svg><span>Indietro </span></a>
+            </svg><span>{{ site.data.t.back[page.lang] }} </span></a>
           <div class="menu-wrapper">
             <div class="link-list-wrapper">
               <h3 class="no_toc">{{ section.title }}</h3>
               <ul class="link-list">
                 <li class="nav-item active">
 
-                  <a class="nav-link {% if section.url == page.url %}active{% endif %}"
+                  <a class="nav-link {% if section.url == page.url %}active{% endif %}" aria-label="{{ site.data.t.goto[page.lang]}} {{ section.title }}"
                     href="{{ site.baseurl }}{{ section.url }}"><span>{{ section.title }}</span></a>
 
                   {% assign items = site.pages | where: "child_of_ref", section.ref | where: "lang", page.lang | sort: "order" %}
                   {% for item in items %}
-                  <a class="nav-link {% if item.url == page.url %}active{% endif %}"
+                  <a class="nav-link {% if item.url == page.url %}active{% endif %}" aria-label="{{ site.data.t.goto[page.lang]}} {{ item.title }}"
                     href="{{ site.baseurl }}{{ item.url }}"><span>{{ item.title }}</span></a>
-                  {% if item.url == page.url and false %}
-                  <ul class="link-list">
-                    <li class="nav-link">
-                      <a class="nav-link" href="#amministrazioni_aderenti_1"><span>Paragrafo 2.1</span></a>
-                    </li>
-                  </ul>
-                  {% endif %}
                   {% endfor %}
 
                 </li>
