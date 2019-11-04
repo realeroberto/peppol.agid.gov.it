@@ -121,6 +121,9 @@ contact-info:
 back:
   en: "Back"
   it: "Indietro"
+external-link:
+  en: "External link"
+  it: "Collegamento a sito esterno"
 footer-links:
   en:
     privacy-policy:

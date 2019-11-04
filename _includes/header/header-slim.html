@@ -3,7 +3,9 @@
     <div class="row">
       <div class="col-12">
         <div class="it-header-slim-wrapper-content">
-          <a class="d-none d-lg-block navbar-brand" href="https://www.agid.gov.it/">{{ site.data.t.author[page.lang] }}</a>
+          <a class="d-none d-lg-block navbar-brand" aria-label="{{ site.data.t.author[page.lang] }} - {{ site.data.t.external-link[page.lang] }}" title="{{ site.data.t.external-link[page.lang] }}" href="https://www.agid.gov.it/">
+                {{ site.data.t.author[page.lang] }}
+            </a>
 
             <nav class="navbar-institutional navbar navbar-expand-lg navbar-dark py-1 px-3" aria-label="{{ site.data.t.slim-nav[page.lang] }}">
               <a class="it-opener d-lg-none" data-toggle="collapse" href="#menu1" role="button" aria-expanded="false" aria-controls="menu1">
@@ -16,24 +18,24 @@
 
                 <ul class="navbar-nav ml-auto mr-0 border-right-0">
                   <li class="nav-item nav-item-w-divider">
-                    <a class="nav-link" href="https://pianotriennale-ict.italia.it/">{{ site.data.t.3y-plan[page.lang] }}</a>
+                    <a aria-label="{{ site.data.t.3y-plan[page.lang] }} - {{ site.data.t.external-link[page.lang] }}" title="{{ site.data.t.external-link[page.lang] }}" class="nav-link" href="https://pianotriennale-ict.italia.it/">{{ site.data.t.3y-plan[page.lang] }}</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://developers.italia.it/">Developers</a>
+                    <a aria-label="Developers - {{ site.data.t.external-link[page.lang] }}" title="{{ site.data.t.external-link[page.lang] }}" class="nav-link" href="https://developers.italia.it/">Developers</a>
                   </li>
                   <li class="nav-item nav-item-w-divider">
-                    <a class="nav-link" href="http://designers.italia.it/">
-                        {% if page.lang == 'it' %}<span lang="en">Designers</span>{% else %}Designes{% endif %}
+                    <a aria-label="Designers - {{ site.data.t.external-link[page.lang] }}" title="{{ site.data.t.external-link[page.lang] }}" class="nav-link" href="http://designers.italia.it/">
+                        {% if page.lang == 'it' %}<span lang="en">Designers</span>{% else %}Designers{% endif %}
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://forum.italia.it/">Forum</a>
+                    <a aria-label="Forum - {{ site.data.t.external-link[page.lang] }}" title="{{ site.data.t.external-link[page.lang] }}" class="nav-link" href="https://forum.italia.it/">Forum</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://docs.italia.it/">Docs</a>
+                    <a aria-label="Docs - {{ site.data.t.external-link[page.lang] }}" title="{{ site.data.t.external-link[page.lang] }}" class="nav-link" href="https://docs.italia.it/">Docs</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/italia/">GitHub</a>
+                    <a aria-label="GitHub - {{ site.data.t.external-link[page.lang] }}" title="{{ site.data.t.external-link[page.lang] }}" class="nav-link" href="https://github.com/italia/">GitHub</a>
                   </li>
                 </ul>
               </div>
