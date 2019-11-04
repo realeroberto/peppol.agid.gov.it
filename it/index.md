@@ -21,4 +21,4 @@ infrastrutturali e di specifiche tecniche che abilitino e facilitino le
 procedure di e-Procurement.
 {% endcapture %}
 
-{% include hero.html text=hero_text %}
+{% include hero.html text=hero_text title=hero_title %}
