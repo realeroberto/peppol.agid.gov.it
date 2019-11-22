@@ -91,7 +91,7 @@
   contact_info: peppol@mastersoft.it
 - business_name: S.A.T.A. Applicazione Tecnologie Avanzate S.r.l.
   ap: true
-  smp: false
+  smp: true
   registered_office: Via Notari, 103 - 41126 Modena
   contact_point: Paola Daniela Monari
   contact_info: p.monari@satanet.it
