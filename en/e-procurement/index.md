@@ -1,9 +1,9 @@
 ---
 layout: page
-title: e-Procurement
+title: Insights
 description: 
 lang: en
-ref: e-procurement
+ref: insights
 order: 7
 ---
 
