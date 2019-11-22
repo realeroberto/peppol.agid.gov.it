@@ -5,7 +5,7 @@ description:
 lang: it
 ref: nso
 order: 6
-child_of_ref: e-procurement
+child_of_ref: approfondimenti
 ---
 
 Come previsto dalla Legge di bilancio 2018, a decorrere dalla data che sarà stabilita con appositi decreti ministeriali,
