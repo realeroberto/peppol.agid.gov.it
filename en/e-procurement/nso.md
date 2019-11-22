@@ -5,7 +5,7 @@ description:
 lang: en
 ref: nso
 order: 6
-child_of_ref: e-procurement
+child_of_ref: insights
 ---
 
 As required by the 2018 Budget Law, starting from the date that will be established with specific ministerial decrees,
