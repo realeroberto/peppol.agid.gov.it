@@ -24,7 +24,8 @@
           <div class="card-body">
             <h5 class="card-title">{{ include.title }}</h5>
             <p class="card-text">{{ include.text }}</p>
-            <a class="read-more" href="{{ site.baseurl }}/it/cos-e-peppol">
+            {% assign about_peppol = site.pages | where: "ref", "cos-e-peppol" | where: "lang", page.lang | first %}
+            <a aria-label="{{ site.data.t.read-more[page.lang] }} {{ about_peppol.title }}" class="read-more" href="{{ site.baseurl }}{{ about_peppol.url }}">
               <span class="text">{{ site.data.t.read-more[page.lang] }}</span>
               <svg class="icon">
                 <use xlink:href="{{ site.baseurl }}/assets/bootstrap-italia/svg/sprite.svg#it-arrow-right"></use>
