@@ -1,9 +1,9 @@
 ---
 layout: page
-title: e-Procurement
+title: Approfondimenti
 description: 
 lang: it
-ref: e-procurement
+ref: approfondimenti
 order: 7
 ---
 
