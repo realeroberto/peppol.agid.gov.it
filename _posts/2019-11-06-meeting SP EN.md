@@ -22,3 +22,7 @@ The event was held at the AgID headquarters and participated qualified service p
 or in inter-qualification as well as project partners.
 
 The documents relating to the meeting is made available in this note.
+
+Attached documents:
+
+- [Meeting PEPPOL Service Provider - Rome 5 october 2019](/attachments/meeting_peppol_sp_20191105.pdf)
