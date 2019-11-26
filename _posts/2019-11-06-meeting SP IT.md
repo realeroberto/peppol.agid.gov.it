@@ -23,3 +23,7 @@ L'evento si è tenuto presso la sede di AgID e vi hanno preso parte i Service Pr
 qualificati o in inter di qualificazione nonchè i partner di progetto. 
 
 Il materiale relativo all'incontro è reso disponibile in questa nota.
+
+Documenti allegati:
+
+- [Meeting PEPPOL Service Provider - Roma 5 ottobre 2019](/attachments/meeting_peppol_sp_20191105.pdf)
