@@ -95,6 +95,12 @@
   registered_office: Via Notari, 103 - 41126 Modena
   contact_point: Paola Daniela Monari
   contact_info: p.monari@satanet.it
+- business_name: SIAV S.p.A.
+  ap: true
+  smp: true
+  registered_office: Via Rossi, 5/N - 35030 Rubano (PD)
+  contact_point: Roberto Pinelli
+  contact_info: roberto.pinelli@siav.it
 - business_name: STDM S.r.l
   ap: true
   smp: false
