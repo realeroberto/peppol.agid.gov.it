@@ -1,5 +1,28 @@
 ---
 ---
+.it-header-center-wrapper {
+  height: auto;
+
+  .it-header-center-content-wrapper {
+    .it-brand-wrapper {
+        a {
+          display: block;
+          text-align: center;
+          margin: 5px 0;
+
+          .icon {
+            width: 200px;
+            height: auto;
+            margin-bottom: 10px;
+          }
+
+          .it-brand-text {
+            padding: 0;
+          }
+        }
+      }
+  }
+}
 .it-header-wrapper {
   .it-header-slim-wrapper {
     .navbar.navbar-institutional {
