@@ -109,7 +109,7 @@
   contact_info: roberto.pinelli@siav.it
 - business_name: STDM S.r.l
   ap: true
-  smp: false
+  smp: true
   registered_office: Via U. Foscolo, 32/I - 37057 San Giovanni Lupatoto (VR)
   contact_point: Massimo Zanforlin
   contact_info: segreteria@stdm.net
