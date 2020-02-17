@@ -95,6 +95,12 @@
   registered_office: Piazzale Lombardia, 10 - 28100 Novara
   contact_point: Marco Tacchini
   contact_info: peppol@mastersoft.it
+- business_name: Open Source Italia S.r.l.
+  ap: true
+  smp: false
+  registered_office: Via del Molinuzzo, 93 - 59100 Prato
+  contact_point: Paolo Bresci
+  contact_info: paolo.bresci@ositalia.com
 - business_name: S.A.T.A. Applicazione Tecnologie Avanzate S.r.l.
   ap: true
   smp: true
