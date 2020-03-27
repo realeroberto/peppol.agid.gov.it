@@ -29,6 +29,12 @@
   registered_office: Via Isonzo 19/E - 00198 Rome
   contact_point: Luca Mastrogregori
   contact_info: luca.mastrogregori@consip.it
+- business_name: DocFlow Italia S.p.A.
+  ap: true
+  smp: false
+  registered_office: Strada 4 Palazzo Q8 Centro Direzionale Milanofiori - 20089 Rozzano (MI)
+  contact_point: Marco Faini
+  contact_info: marco.faini@docflow.it
 - business_name: DocuMi S.r.l.
   ap: true
   smp: true
