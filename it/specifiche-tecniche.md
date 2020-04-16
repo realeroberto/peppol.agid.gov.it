@@ -11,4 +11,4 @@ Le specifiche tecniche e le implementazioni di seguito riportate costituiscono l
 
 - <a aria-label="Peppol.eu - Specifiche tecniche mantenute da OpenPEPPOL - Collegamento a sito esterno" title="Collegamento a sito esterno" href="https://peppol.eu/downloads/">Specifiche tecniche mantenute da OpenPEPPOL</a>;
 
-- <a aria-label="Specifiche tecniche valide nel contesto nazionale - Collegamento a sito esterno" title="Collegamento a sito esterno" href="https://notier.regione.emilia-romagna.it/docs/">Specifiche tecniche valide nel contesto nazionale</a>.
+- <a aria-label="Specifiche tecniche valide nel contesto nazionale" title="Specifiche tecniche valide nel contesto nazionale" href="/it/specifiche-tecniche/specifiche-tecniche-nazionali">Specifiche tecniche valide nel contesto nazionale</a>.
