@@ -5,7 +5,7 @@ description:
 lang: en
 ref: national-technical-specifications
 order: 1
-child_of_ref: technical-specifications
+child_of_ref: specifiche-tecniche
 ---
 
 <div class="embed-responsive embed-responsive-21by9">
