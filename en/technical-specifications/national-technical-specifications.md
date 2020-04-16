@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: technical-specifications
 title: Technical specifications valid for Italy
 description:
 lang: en

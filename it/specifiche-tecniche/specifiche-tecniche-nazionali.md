@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: technical-specifications
 title: Specifiche tecniche valide nel contesto nazionale
 description:
 lang: it
