@@ -11,4 +11,4 @@ The technical specifications and implementations shown below constitute the Ital
 
 - <a aria-label="Peppol.eu - Technical specifications maintained by OpenPEPPOL - External link" title="External link" href="https://peppol.eu/downloads/">Technical specifications maintained by OpenPEPPOL</a>;
 
-- <a aria-label="Technical specifications valid for Italy - External link" title="External link" href="https://notier.regione.emilia-romagna.it/docs/">Technical specifications valid for Italy</a>.
+- <a aria-label="Technical specifications valid for Italy" title="Technical specifications valid for Italy" href="/en/technical-specifications/national-technical-specifications">Technical specifications valid for Italy</a>.
