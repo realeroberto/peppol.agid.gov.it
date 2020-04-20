@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pubblicazione esito della consultazione relativa al profilo PEPPOL BIS Documento di Trasporto 3.0 (DDT)
+title: Publication of the consultation results on PEPPOL BIS Despatch Advice 3.0 (DDT)
 lang: en
 ref: esito-consultazione-peppol-ddt
 excerpt_separator: <!--more-->
