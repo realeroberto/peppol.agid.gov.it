@@ -2,7 +2,7 @@
 layout: post
 title: Meeting Service Provider PEPPOL
 lang: en
-ref: new
+ref: meeting-sp
 excerpt_separator: <!--more-->
 tags: peppol
 # categories: categoria2

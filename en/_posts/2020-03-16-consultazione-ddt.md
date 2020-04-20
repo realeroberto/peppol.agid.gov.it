@@ -2,7 +2,7 @@
 layout: post
 title: Consultation on PEPPOL BIS Despatch Advice 3.0
 lang: en
-ref: consultazione-peppol-bis-documento-trasporto-3-0
+ref: consultazione-peppol-ddt
 excerpt_separator: <!--more-->
 tags: peppol
 # categories: categoria2
