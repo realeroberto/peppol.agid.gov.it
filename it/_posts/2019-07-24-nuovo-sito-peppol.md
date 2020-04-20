@@ -6,7 +6,7 @@ ref: nuovo-sito-peppol
 excerpt_separator: <!--more-->
 tags: peppol
 categories: news
-permalink: /it/news/nuovo-sito-peppol
+permalink: /it/news/nuovo-sito-peppol/
 ---
 
 Online il nuovo sito PEPPOL
