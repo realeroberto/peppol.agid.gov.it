@@ -5,7 +5,7 @@ lang: it
 ref: consultazione-peppol-ddt
 excerpt_separator: <!--more-->
 tags: peppol
-# categories: categoria2
+categories: news
 ---
 
 AgID come PEPPOL Authority Italiana sta supportando la migrazione dei profili PEPPOL post-award adottati sul territorio nazionale, così come stabilito dal [piano di migrazione di OpenPEPPOL](https://docs.peppol.eu/poacc/upgrade-3/migration/).

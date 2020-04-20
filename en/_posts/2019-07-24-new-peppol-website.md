@@ -5,7 +5,7 @@ lang: en
 ref: nuovo-sito-peppol
 excerpt_separator: <!--more-->
 tags: peppol
-# categories: categoria2
+categories: categoria2
 ---
 
 The new PEPPOL website is online

@@ -5,7 +5,7 @@ lang: it
 ref: meeting-sp
 excerpt_separator: <!--more-->
 tags: peppol
-# categories: categoria2
+categories: news
 ---
 
 Lo scorso 5 novembre 2019, AgID in qualità di PEPPOL Authority per l’Italia, 
