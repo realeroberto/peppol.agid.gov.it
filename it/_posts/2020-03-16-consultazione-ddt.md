@@ -2,7 +2,7 @@
 layout: post
 title: Consultazione sul profilo PEPPOL BIS Documento di Trasporto 3.0
 lang: it
-ref: consultazione-peppol-bis-documento-trasporto-3-0
+ref: consultazione-peppol-ddt
 excerpt_separator: <!--more-->
 tags: peppol
 # categories: categoria2
