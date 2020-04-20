@@ -5,7 +5,8 @@ lang: en
 ref: meeting-sp
 excerpt_separator: <!--more-->
 tags: peppol
-# categories: categoria2
+categories: news
+permalink: /en/news/meeting-sp/
 ---
 
 Last November 5, 2019, AgID as PEPPOL Authority for Italy, has convened a meeting 

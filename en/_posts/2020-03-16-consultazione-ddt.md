@@ -5,7 +5,8 @@ lang: en
 ref: consultazione-peppol-ddt
 excerpt_separator: <!--more-->
 tags: peppol
-# categories: categoria2
+categories: news
+permalink: /en/news/consultation-ddt/
 ---
 
 AgID, as Italian PEPPOL Authority, is supporting the migration of post-award PEPPOL profiles adopted nation-wide, as established by the [OpenPEPPOL migration plan](https://docs.peppol.eu/poacc/upgrade-3/migration/).
