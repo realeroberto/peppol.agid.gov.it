@@ -1,1 +1,1 @@
-# Sito web informativo PEPPOL
+# Italian PEPPOL Authority website
