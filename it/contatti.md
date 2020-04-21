@@ -13,4 +13,6 @@ Telefono: +39 06852641
 
 E-mail: [peppol@agid.gov.it](mailto:peppol@agid.gov.it?subject=%5Bpeppol.agid.gov.it%5D%20Richiesta%20informazioni)
 
+Assistenza tecnica: [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it)
+
 PEC: [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it)
