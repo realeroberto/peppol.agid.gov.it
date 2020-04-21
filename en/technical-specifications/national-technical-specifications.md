@@ -3,7 +3,7 @@ layout: technical-specifications
 title: Technical specifications valid for Italy
 description:
 lang: en
-ref: national-technical-specifications
+ref: specifiche-tecniche-nazionali
 order: 1
 child_of_ref: specifiche-tecniche
 ---
