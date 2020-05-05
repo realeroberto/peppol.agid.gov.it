@@ -47,19 +47,49 @@ Tale scenario presuppone che la PA si avvalga di un service provider che sia
 contemporaneamente **Certified Peppol Access Point** ed **intermediario
 qualificato** verso **NSO**.
 
-![](/assets/images/e-ordering-1.png)
+<figure class="figure">
+  <img src="/assets/images/e-ordering-1.png" class="figure-img img-fluid rounded" alt="Scenario di validazione">
+  <figcaption class="figure-caption">Scenario di validazione</figcaption>
+</figure>
 
-Figura 3. Scenario di validazione
-
-| STEP | DESCRIZIONE                                                                                                                                                                                                                               |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0    | Il Fornitore (Corner 4) ha un Participant ID Peppol registrato su SMP- SML                                                                                                                                                                |
-| 1    | La PA (Corner 1) invia l’ordine Peppol BIS 3 al proprio Access Point Provider (Corner 2) specificando il destinatario (Participant ID Peppol)                                                                                             |
-| 2    | L’Access Point Provider (Corner 2) invia l’ordine a NSO utilizzando i canali tradizionali previsti da NSO al fine di ottenere una notifica di validazione                                                                                 |
-| 3    | L'Access Point Provider (Corner 2) utilizza la dynamic discovery (lookup su SML e SMP) di Peppol per individuare l’Access Point (Corner 3) a cui dovrà inviare l’ordine                                                                   |
-| 4    | L’Access Point Provider della PA (Corner 2) inoltra l’ordine all'Access Point Provider del Fornitore (Corner 3)                                                                                                                           |
-| 5    | L’Access Point Provider del Fornitore (Corner 3) conferma la ricezione dell’ordine al Corner 2 con una “Message Disposition Notification” trasmessa su rete Peppol; simultaneamente mette a disposizione l’ordine al Fornitore (Corner 4) |
-| 6    | L'Access Point Provider (Corner 2) notifica ricevuta sull’esito della trasmissione al mittente originale dell’ordine (Corner 1), utilizzando una tipologia di notifica concordata tra le parti                                            |
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">STEP</th>
+      <th scope="col">DESCRIZIONE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">0</th>
+      <td>Il Fornitore (Corner 4) ha un Participant ID Peppol registrato su SMP-SML</td>
+    </tr>
+    <tr>
+      <th scope="row">1</th>
+      <td>La PA (Corner 1) invia l’ordine Peppol BIS 3 al proprio Access Point Provider (Corner 2) specificando il destinatario (Participant ID Peppol)</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>L’Access Point Provider (Corner 2) invia l’ordine a NSO utilizzando i canali tradizionali previsti da NSO al fine di ottenere una notifica di validazione</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>L'Access Point Provider (Corner 2) utilizza la dynamic discovery (lookup su SML e SMP) di Peppol per individuare l’Access Point (Corner 3) a cui dovrà inviare l’ordine</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>L’Access Point Provider della PA (Corner 2) inoltra l’ordine all'Access Point Provider del Fornitore (Corner 3)</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>L’Access Point Provider del Fornitore (Corner 3) conferma la ricezione dell’ordine al Corner 2 con una “Message Disposition Notification” trasmessa su rete Peppol; simultaneamente mette a disposizione l’ordine al Fornitore (Corner 4)</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>L'Access Point Provider (Corner 2) notifica ricevuta sull’esito della trasmissione al mittente originale dell’ordine (Corner 1), utilizzando una tipologia di notifica concordata tra le parti</td>
+    </tr>
+  </tbody>
+</table>
 
 **SCENARIO DI TRASMISSIONE CON TERZA PARTE IN USCITA**
 
@@ -70,17 +100,50 @@ tradizionali (PEC, FTP e WS) e lo trasmette al destinatario su rete Peppol.
 Tale scenario è supportato dalla disponibilità **dell’Access Point Peppol unico
 per la PA** realizzato da **AgID** ed integrato con NSO.
 
-![](/assets/images/e-ordering-2.png)
+<figure class="figure">
+  <img src="/assets/images/e-ordering-2.png" class="figure-img img-fluid rounded" alt="Scenario di trasmissione con terza parte in uscita">
+  <figcaption class="figure-caption">Scenario di trasmissione con terza parte in uscita</figcaption>
+</figure>
 
-Figura 4. Scenario di trasmissione con terza parte in uscita
-
-| STEP | DESCRIZIONE                                                                                                                                                                                                                               |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0    | Il Fornitore (Corner 4) ha un Participant ID Peppol registrato su SMP- SML                                                                                                                                                                |
-| 1    | La PA invia l’ordine Peppol BIS 3 ad NSO (Corner 1) specificando il destinatario (Participant ID Peppol)                                                                                                                                  |
-| 2    | NSO, effettuati i controlli, invia l’ordine all’Access Point Peppol unico per la PA (Corner 2)                                                                                                                                            |
-| 3    | L’Access Point Peppol unico per la PA (Corner 2) utilizza la dynamic discovery (lookup su SML e SMP) di Peppol per individuare l’Access Point (Corner 3) a cui dovrà consegnare il documento                                              |
-| 4    | L’Access Point Peppol unico per la PA (Corner 2) inoltra l’ordine all'Access Point Provider del Fornitore (Corner 3)                                                                                                                      |
-| 5    | L’Access Point Provider del Fornitore (Corner 3) conferma la ricezione dell’ordine al Corner 2 con una “Message Disposition Notification” trasmessa su rete Peppol; simultaneamente mette a disposizione l’ordine al Fornitore (Corner 4) |
-| 6    | L'Access Point Provider (Corner 2) consegna la notifica ricevuta sull’esito della trasmissione su rete Peppol a NSO (Corner 1)                                                                                                            |
-| 7    | NSO (Corner 1) recapita la notifica alla Pubblica Amministrazione utilizzando i canali tradizionali previsti da NSO                                                                                                                       |
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">STEP</th>
+      <th scope="col">DESCRIZIONE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">0</th>
+      <td>Il Fornitore (Corner 4) ha un Participant ID Peppol registrato su SMP-SML</td>
+    </tr>
+    <tr>
+      <th scope="row">1</th>
+      <td>La PA invia l’ordine Peppol BIS 3 ad NSO (Corner 1) specificando il destinatario (Participant ID Peppol)</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>NSO, effettuati i controlli, invia l’ordine all’Access Point Peppol unico per la PA (Corner 2)</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>L’Access Point Peppol unico per la PA (Corner 2) utilizza la dynamic discovery (lookup su SML e SMP) di Peppol per individuare l’Access Point (Corner 3) a cui dovrà consegnare il documento</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>L’Access Point Peppol unico per la PA (Corner 2) inoltra l’ordine all'Access Point Provider del Fornitore (Corner 3)</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>L’Access Point Provider del Fornitore (Corner 3) conferma la ricezione dell’ordine al Corner 2 con una “Message Disposition Notification” trasmessa su rete Peppol; simultaneamente mette a disposizione l’ordine al Fornitore (Corner 4)</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>L'Access Point Provider (Corner 2) consegna la notifica ricevuta sull’esito della trasmissione su rete Peppol a NSO (Corner 1)</td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>NSO (Corner 1) recapita la notifica alla Pubblica Amministrazione utilizzando i canali tradizionali previsti da NSO</td>
+    </tr>
+  </tbody>
+</table>

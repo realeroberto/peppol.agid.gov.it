@@ -25,7 +25,7 @@ e le corrispondenti mappature. Nell’ottobre 2017 la **norma europea (EN
 dalla Commissione Europea. Tali sintassi sono:
 
 -   i messaggi di fattura e nota di credito UBL definiti nella norma ISO/IEC
-    19845: 2015. 7;
+    19845:2015.7;
 
 -   il messaggio Cross Industry Invoice XML dell'UN/CEFACT come specificato
     negli schemi XML 16B (SCRDM-CII).
@@ -84,27 +84,78 @@ Di seguito sono riportati due schemi esemplificativi che illustrano
 rispettivamente il flusso di trasmissione di una fattura ed il flusso di ritorno
 delle notifiche:
 
-![](/assets/images/e-invoicing-1.png)
+<figure class="figure">
+  <img src="/assets/images/e-invoicing-1.png" class="figure-img img-fluid rounded" alt="Schema trasmissione fattura">
+  <figcaption class="figure-caption">Schema trasmissione fattura</figcaption>
+</figure>
 
-Figura 1. Schema trasmissione fattura
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">STEP</th>
+      <th scope="col">DESCRIZIONE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Il Fornitore (Corner 1) invia il documento Peppol BIS 3 (conforme alla CIUS) al proprio Access Point Provider (Corner 2) specificando il destinatario (endpoint del’UFE della PA registrata su iPA)</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>L'Access Point Provider (Corner 2) utilizza la dynamic discovery (lookup su SML e SMP) di Peppol per individuare l’Access Point (Corner 3) a cui dovrà consegnare il documento destinato alla PA</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>L'Access Point Provider del Fornitore (Corner 2) invia il documento all'Access Point Provider della Pubblica Amministrazione (Corner 3)</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>L'Access Point della Pubblica Amministrazione (Corner 3) invia il documento a SdI utilizzando i canali tradizionali previsti dal Sistema di Interscambio</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>SdI verifica la conformità del documento rispetto alle regole italiane, lo traduce nel formato nazionale FatturaPA e lo consegna alla PA allegando il file originario Peppol BIS 3, utilizzando i canali di ricezione censiti sul Sistema di Interscambio</td>
+    </tr>
+  </tbody>
+</table>
 
-| STEP | DESCRIZIONE                                                                                                                                                                                                                                               |
-|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | Il Fornitore (Corner 1) invia il documento Peppol BIS 3 (conforme alla CIUS) al proprio Access Point Provider (Corner 2) specificando il destinatario (endpoint del’UFE della PA registrata su iPA)                                                       |
-| 2    | L'Access Point Provider (Corner 2) utilizza la dynamic discovery (lookup su SML e SMP) di Peppol per individuare l’Access Point (Corner 3) a cui dovrà consegnare il documento destinato alla PA                                                          |
-| 3    | L’Access Point Provider del Fornitore (Corner 2) invia il documento all'Access Point Provider della Pubblica Amministrazione (Corner 3)                                                                                                                   |
-| 4    | L’Access Point della Pubblica Amministrazione (Corner 3) invia il documento a SdI utilizzando i canali tradizionali previsti dal Sistema di Interscambio                                                                                                  |
-| 5    | SdI verifica la conformità del documento rispetto alle regole italiane, lo traduce nel formato nazionale FatturaPA e lo consegna alla PA allegando il file originario Peppol BIS 3, utilizzando i canali di ricezione censiti sul Sistema di Interscambio |
+<figure class="figure">
+  <img src="/assets/images/e-invoicing-2.png" class="figure-img img-fluid rounded" alt="Schema trasmissione notifiche">
+  <figcaption class="figure-caption">Schema trasmissione notifiche</figcaption>
+</figure>
 
-![](/assets/images/e-invoicing-2.png)
-
-Figura 2. Schema trasmissione notifiche
-
-| STEP | DESCRIZIONE                                                                                                                                                                                                         |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | La Pubblica Amministrazione (Corner 4) invia a SdI la notifica di avvenuta ricezione in formato FatturaPA secondo i canali tradizionali di SdI                                                                      |
-| 2    | SdI riceve la notifica e la trasmette, in formato FatturaPA, all’Access Point Provider della PA (Corner 3) secondo i canali tradizionali                                                                            |
-| 3    | L'Access Point Provider della Pubblica Amministrazione (Corner 3) traduce la notifica dal formato FatturaPA al formato UBL creando l’Invoice Response                                                               |
-| 4    | L'Access Point Provider della Pubblica Amministrazione (Corner 3) utilizza la dynamic discovery (lookup su SML e SMP) di Peppol per individuare l’Access Point (Corner 2) a cui dovrà recapitare l’Invoice Response |
-| 5    | L’Access Point Provider (Corner 3) invia all’Access Point Provider del fornitore (Corner 2) la notifica IR su rete Peppol                                                                                           |
-| 6    | L'Access Point Provider del Fornitore (Corner 2) comunica al mittente originale della fattura (Corner 1) l’esito dell’invio utilizzando una tipologia di notifica concordata tra le parti                           |
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">STEP</th>
+      <th scope="col">DESCRIZIONE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>La Pubblica Amministrazione (Corner 4) invia a SdI la notifica di avvenuta ricezione in formato FatturaPA secondo i canali tradizionali di SdI</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>SdI riceve la notifica e la trasmette, in formato FatturaPA, all’Access Point Provider della PA (Corner 3) secondo i canali tradizionali</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>L'Access Point Provider della Pubblica Amministrazione (Corner 3) traduce la notifica dal formato FatturaPA al formato UBL creando l’Invoice Response</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>L'Access Point Provider della Pubblica Amministrazione (Corner 3) utilizza la dynamic discovery (lookup su SML e SMP) di Peppol per individuare l’Access Point (Corner 2) a cui dovrà recapitare l’Invoice Response</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>L’Access Point Provider (Corner 3) invia all’Access Point Provider del fornitore (Corner 2) la notifica IR su rete Peppol</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>L'Access Point Provider del Fornitore (Corner 2) comunica al mittente originale della fattura (Corner 1) l’esito dell’invio utilizzando una tipologia di notifica concordata tra le parti</td>
+    </tr>
+  </tbody>
+</table>
