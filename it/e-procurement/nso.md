@@ -4,7 +4,7 @@ title: Nodo di smistamento degli ordini di acquisto delle amministrazioni pubbli
 description:
 lang: it
 ref: nso
-order: 6
+order: 3
 child_of_ref: approfondimenti
 ---
 

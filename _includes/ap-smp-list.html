@@ -31,7 +31,7 @@
                 </td>
                 <td>{{ entry.registered_office }}</td>
                 <td>{{ entry.contact_point }}</td>
-                <td>{{ entry.contact_info }}</td>
+                <td><a href="mailto:{{ entry.contact_info }}">{{ entry.contact_info }}</a></td>
             </tr>
             {% endfor %}
         </tbody>
