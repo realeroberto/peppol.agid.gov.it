@@ -49,7 +49,7 @@ qualificato** verso **NSO**.
 
 <figure class="figure">
   <img src="/assets/images/e-ordering-1.png" class="figure-img img-fluid rounded" alt="Scenario di validazione">
-  <figcaption class="figure-caption">Scenario di validazione</figcaption>
+  <figcaption class="figure-caption text-center">Scenario di validazione</figcaption>
 </figure>
 
 <table class="table table-striped">
@@ -102,7 +102,7 @@ per la PA** realizzato da **AgID** ed integrato con NSO.
 
 <figure class="figure">
   <img src="/assets/images/e-ordering-2.png" class="figure-img img-fluid rounded" alt="Scenario di trasmissione con terza parte in uscita">
-  <figcaption class="figure-caption">Scenario di trasmissione con terza parte in uscita</figcaption>
+  <figcaption class="figure-caption text-center">Scenario di trasmissione con terza parte in uscita</figcaption>
 </figure>
 
 <table class="table table-striped">
