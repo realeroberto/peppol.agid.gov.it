@@ -70,7 +70,7 @@ tradizionali (PEC, FTP e WS) e lo trasmette al destinatario su rete Peppol.
 Tale scenario è supportato dalla disponibilità **dell’Access Point Peppol unico
 per la PA** realizzato da **AgID** ed integrato con NSO.
 
-![](e-ordering-2.png)
+![](/assets/images/e-ordering-2.png)
 
 Figura 4. Scenario di trasmissione con terza parte in uscita
 
