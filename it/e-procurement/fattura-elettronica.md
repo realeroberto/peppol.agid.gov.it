@@ -3,7 +3,7 @@ layout: page
 title: Fattura elettronica
 description:
 lang: it
-ref: e-invocing
+ref: e-invoicing
 order: 1
 child_of_ref: approfondimenti
 ---
@@ -84,7 +84,7 @@ Di seguito sono riportati due schemi esemplificativi che illustrano
 rispettivamente il flusso di trasmissione di una fattura ed il flusso di ritorno
 delle notifiche:
 
-![](/assets/images/e-invocing-1.png)
+![](/assets/images/e-invoicing-1.png)
 
 Figura 1. Schema trasmissione fattura
 
@@ -96,7 +96,7 @@ Figura 1. Schema trasmissione fattura
 | 4    | L’Access Point della Pubblica Amministrazione (Corner 3) invia il documento a SdI utilizzando i canali tradizionali previsti dal Sistema di Interscambio                                                                                                  |
 | 5    | SdI verifica la conformità del documento rispetto alle regole italiane, lo traduce nel formato nazionale FatturaPA e lo consegna alla PA allegando il file originario Peppol BIS 3, utilizzando i canali di ricezione censiti sul Sistema di Interscambio |
 
-![](/assets/images/e-invocing-2.png)
+![](/assets/images/e-invoicing-2.png)
 
 Figura 2. Schema trasmissione notifiche
 
