@@ -86,7 +86,7 @@ delle notifiche:
 
 <figure class="figure">
   <img src="/assets/images/e-invoicing-1.png" class="figure-img img-fluid rounded" alt="Schema trasmissione fattura">
-  <figcaption class="figure-caption">Schema trasmissione fattura</figcaption>
+  <figcaption class="figure-caption text-center">Schema trasmissione fattura</figcaption>
 </figure>
 
 <table class="table table-striped">
@@ -122,7 +122,7 @@ delle notifiche:
 
 <figure class="figure">
   <img src="/assets/images/e-invoicing-2.png" class="figure-img img-fluid rounded" alt="Schema trasmissione notifiche">
-  <figcaption class="figure-caption">Schema trasmissione notifiche</figcaption>
+  <figcaption class="figure-caption text-center">Schema trasmissione notifiche</figcaption>
 </figure>
 
 <table class="table table-striped">
