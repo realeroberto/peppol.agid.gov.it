@@ -25,7 +25,7 @@ e le corrispondenti mappature. Nell’ottobre 2017 la **norma europea (EN
 dalla Commissione Europea. Tali sintassi sono:
 
 -   i messaggi di fattura e nota di credito UBL definiti nella norma ISO/IEC
-    19845: 2015. 7;
+    19845:2015.7;
 
 -   il messaggio Cross Industry Invoice XML dell'UN/CEFACT come specificato
     negli schemi XML 16B (SCRDM-CII).
