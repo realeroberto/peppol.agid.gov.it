@@ -4,7 +4,7 @@ title: Publication of the consultation results on PEPPOL BIS Despatch Advice 3.0
 lang: en
 ref: esito-consultazione-peppol-ddt
 excerpt_separator: <!--more-->
-tags: peppol
+tags:
 categories: news
 permalink: /en/news/result-ddt-consultation/
 ---
