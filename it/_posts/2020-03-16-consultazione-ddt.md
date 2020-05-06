@@ -4,7 +4,7 @@ title: Consultazione sul profilo PEPPOL BIS Documento di Trasporto 3.0
 lang: it
 ref: consultazione-peppol-ddt
 excerpt_separator: <!--more-->
-tags: peppol
+tags:
 categories: news
 permalink: /it/news/consultazione-peppol-ddt/
 ---

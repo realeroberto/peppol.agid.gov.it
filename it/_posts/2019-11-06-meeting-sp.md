@@ -4,7 +4,7 @@ title: Meeting Service Provider PEPPOL
 lang: it
 ref: meeting-sp
 excerpt_separator: <!--more-->
-tags: peppol
+tags:
 categories: news
 permalink: /it/news/meeting-sp/
 ---

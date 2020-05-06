@@ -4,7 +4,7 @@ title: Consultation on PEPPOL BIS Despatch Advice 3.0
 lang: en
 ref: consultazione-peppol-ddt
 excerpt_separator: <!--more-->
-tags: peppol
+tags:
 categories: news
 permalink: /en/news/consultation-ddt/
 ---

@@ -4,7 +4,7 @@ title: Pubblicazione esito della consultazione relativa al profilo PEPPOL BIS Do
 lang: it
 ref: esito-consultazione-peppol-ddt
 excerpt_separator: <!--more-->
-tags: peppol
+tags:
 categories: news
 permalink: /it/news/esito-consultazione-peppol-ddt/
 ---

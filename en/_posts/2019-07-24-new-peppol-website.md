@@ -4,7 +4,7 @@ title: The new PEPPOL website is online
 lang: en
 ref: nuovo-sito-peppol
 excerpt_separator: <!--more-->
-tags: peppol
+tags:
 categories: news
 permalink: /en/news/new-peppol-website/
 ---
