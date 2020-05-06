@@ -4,7 +4,7 @@ title: Sorting node for public administration purchase orders (NSO)
 description:
 lang: en
 ref: nso
-order: 6
+order: 3
 child_of_ref: insights
 ---
 
