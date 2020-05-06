@@ -59,6 +59,9 @@ cookie-policy-info:
 cookie-policy-accept-btn:
   en: "Ok"
   it: "Accetto"
+email-address:
+  en: "Email Address"
+  it: "Email"
 goto:
   en: "Go to"
   it: "Vai a"
@@ -77,6 +80,12 @@ go-home:
 main-nav:
   en: "main menu"
   it: "menu principale"
+pec:
+  en: "PEC"
+  it: "PEC"
+phone-number:
+  en: "Phone Number"
+  it: "Telefono"
 toggle-nav:
   en: "toggle navigation"
   it: "mostra o nascondi il menu di navigazione"
@@ -112,6 +121,9 @@ business-name:
 registered-office:
   en: "Registered office"
   it: "Sede legale"
+technical-support:
+  en: "Technical Support"
+  it: "Assistenza tecnica"
 contact-point:
   en: "Contact point"
   it: "Punto di contatto"
