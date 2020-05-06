@@ -44,45 +44,9 @@ social-links:
       url: "https://medium.com/@AgidGov"
 
 ## Labels
-italian-version:
-  en: "Italian version"
-  it: "Versione italiana"
-english-version:
-  en: "English version"
-  it: "Versione inglese"
 3y-plan:
   en: "Three-Year Plan"
   it: "Piano triennale"
-cookie-policy-info:
-  en: "This site uses technical, analytics and third-party cookies <br>By continuing to browse, you accept the use of cookies."
-  it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
-cookie-policy-accept-btn:
-  en: "Ok"
-  it: "Accetto"
-goto:
-  en: "Go to"
-  it: "Vai a"
-selection:
-  en: "Selection"
-  it: "Selezione"
-go-to-main:
-  en: "Go to the main content"
-  it: "Vai al contenuto principale"
-follow-us:
-  en: "Follow us"
-  it: "Seguici su"
-go-home:
-  en: "Go to home page"
-  it: "Vai alla home page"
-main-nav:
-  en: "main menu"
-  it: "menu principale"
-toggle-nav:
-  en: "toggle navigation"
-  it: "mostra o nascondi il menu di navigazione"
-slim-nav:
-  en: "institutional websites navigation"
-  it: "navigazione siti istituzionali"
 ap-recognized:
   true:
     en: "Recognized as Access Point"
@@ -90,40 +54,39 @@ ap-recognized:
   false:
     en: "Not recognized as Access Point"
     it: "Non riconosciuto come Access Point"
-smp-recognized:
-  true:
-    en: "Recognized as Service Metadata Publisher"
-    it: "Riconosciuto come Service Metadata Publisher"
-  false:
-    en: "Not recognized as Service Metadata Publisher"
-    it: "Non riconosciuto come Service Metadata Publisher"
-read-more-about:
-  en: "Read more about"
-  it: "Leggi di più su"
-read-more:
-  en: "Read more"
-  it: "Leggi di più"
-last-update:
-  en: "Last update"
-  it: "Ultimo aggiornamento"
-business-name:
-  en: "Business name"
-  it: "Ragione sociale"
-registered-office:
-  en: "Registered office"
-  it: "Sede legale"
-contact-point:
-  en: "Contact point"
-  it: "Punto di contatto"
-contact-info:
-  en: "Contact informations"
-  it: "Informazioni di contatto"
 back:
   en: "Back"
   it: "Indietro"
+business-name:
+  en: "Business name"
+  it: "Ragione sociale"
+contact-info:
+  en: "Contact informations"
+  it: "Informazioni di contatto"
+contact-point:
+  en: "Contact point"
+  it: "Punto di contatto"
+contacts:
+  en: "Contacts"
+  it: "Contatti"
+cookie-policy-info:
+  en: "This site uses technical, analytics and third-party cookies <br>By continuing to browse, you accept the use of cookies."
+  it: "Questo sito utilizza cookie tecnici, analytics e di terze parti.<br>Proseguendo nella navigazione accetti l’utilizzo dei cookie."
+cookie-policy-accept-btn:
+  en: "Ok"
+  it: "Accetto"
+email-address:
+  en: "Email Address"
+  it: "Email"
+english-version:
+  en: "English version"
+  it: "Versione inglese"
 external-link:
   en: "External link"
   it: "Collegamento a sito esterno"
+follow-us:
+  en: "Follow us"
+  it: "Seguici su"
 footer-links:
   en:
     privacy-policy:
@@ -135,6 +98,55 @@ footer-links:
       name: '<span lang="en">Privacy policy</span>'
       title: "Privacy policy"
       url: "https://www.agid.gov.it/it/privacy-policy"
-
-
-
+go-home:
+  en: "Go to home page"
+  it: "Vai alla home page"
+go-to-main:
+  en: "Go to the main content"
+  it: "Vai al contenuto principale"
+goto:
+  en: "Go to"
+  it: "Vai a"
+italian-version:
+  en: "Italian version"
+  it: "Versione italiana"
+last-update:
+  en: "Last update"
+  it: "Ultimo aggiornamento"
+main-nav:
+  en: "main menu"
+  it: "menu principale"
+pec:
+  en: "PEC"
+  it: "PEC"
+phone-number:
+  en: "Phone Number"
+  it: "Telefono"
+read-more:
+  en: "Read more"
+  it: "Leggi di più"
+read-more-about:
+  en: "Read more about"
+  it: "Leggi di più su"
+registered-office:
+  en: "Registered office"
+  it: "Sede legale"
+selection:
+  en: "Selection"
+  it: "Selezione"
+slim-nav:
+  en: "institutional websites navigation"
+  it: "navigazione siti istituzionali"
+smp-recognized:
+  true:
+    en: "Recognized as Service Metadata Publisher"
+    it: "Riconosciuto come Service Metadata Publisher"
+  false:
+    en: "Not recognized as Service Metadata Publisher"
+    it: "Non riconosciuto come Service Metadata Publisher"
+toggle-nav:
+  en: "toggle navigation"
+  it: "mostra o nascondi il menu di navigazione"
+technical-support:
+  en: "Technical Support"
+  it: "Assistenza tecnica"
