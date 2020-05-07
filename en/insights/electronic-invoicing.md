@@ -82,7 +82,7 @@ Below are two diagrams which describe the flow of transmission of an invoice and
 the return flow of notifications:
 
 <figure class="figure">
-  <img src="/assets/images/e-invoicing-1.png" class="figure-img img-fluid rounded" alt="Invoicing transmission flow">
+  <img src="/assets/images/e-invoicing-1-en.png" class="figure-img img-fluid rounded" alt="Invoicing transmission flow">
   <figcaption class="figure-caption text-center">Invoicing transmission flow</figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ the return flow of notifications:
 </table>
 
 <figure class="figure">
-  <img src="/assets/images/e-invoicing-2.png" class="figure-img img-fluid rounded" alt="Notification transmission flow">
+  <img src="/assets/images/e-invoicing-2-en.png" class="figure-img img-fluid rounded" alt="Notification transmission flow">
   <figcaption class="figure-caption text-center">Notification transmission flow</figcaption>
 </figure>
 

@@ -85,7 +85,7 @@ rispettivamente il flusso di trasmissione di una fattura ed il flusso di ritorno
 delle notifiche:
 
 <figure class="figure">
-  <img src="/assets/images/e-invoicing-1.png" class="figure-img img-fluid rounded" alt="Schema trasmissione fattura">
+  <img src="/assets/images/e-invoicing-1-it.png" class="figure-img img-fluid rounded" alt="Schema trasmissione fattura">
   <figcaption class="figure-caption text-center">Schema trasmissione fattura</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ delle notifiche:
 </table>
 
 <figure class="figure">
-  <img src="/assets/images/e-invoicing-2.png" class="figure-img img-fluid rounded" alt="Schema trasmissione notifiche">
+  <img src="/assets/images/e-invoicing-2-it.png" class="figure-img img-fluid rounded" alt="Schema trasmissione notifiche">
   <figcaption class="figure-caption text-center">Schema trasmissione notifiche</figcaption>
 </figure>
 

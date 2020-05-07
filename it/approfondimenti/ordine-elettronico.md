@@ -48,7 +48,7 @@ contemporaneamente **Certified Peppol Access Point** ed **intermediario
 qualificato** verso **NSO**.
 
 <figure class="figure">
-  <img src="/assets/images/e-ordering-1.png" class="figure-img img-fluid rounded" alt="Scenario di validazione">
+  <img src="/assets/images/e-ordering-1-it.png" class="figure-img img-fluid rounded" alt="Scenario di validazione">
   <figcaption class="figure-caption text-center">Scenario di validazione</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Tale scenario è supportato dalla disponibilità **dell’Access Point Peppol un
 per la PA** realizzato da **AgID** ed integrato con NSO.
 
 <figure class="figure">
-  <img src="/assets/images/e-ordering-2.png" class="figure-img img-fluid rounded" alt="Scenario di trasmissione con terza parte in uscita">
+  <img src="/assets/images/e-ordering-2-it.png" class="figure-img img-fluid rounded" alt="Scenario di trasmissione con terza parte in uscita">
   <figcaption class="figure-caption text-center">Scenario di trasmissione con terza parte in uscita</figcaption>
 </figure>
 
