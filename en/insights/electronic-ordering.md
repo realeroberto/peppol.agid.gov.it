@@ -48,7 +48,7 @@ time a **Certified PEPPOL Access Point** and a **qualified intermediary**
 towards **NSO**.
 
 <figure class="figure">
-  <img src="/assets/images/e-ordering-1.png" class="figure-img img-fluid rounded" alt="Validation scenario">
+  <img src="/assets/images/e-ordering-1-en.png" class="figure-img img-fluid rounded" alt="Validation scenario">
   <figcaption class="figure-caption text-center">Validation scenario</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ This scenario is supported thanks to the availability of the national PEPPOL
 Access Point for the PA deployed by AgID and integrated with NSO.
 
 <figure class="figure">
-  <img src="/assets/images/e-ordering-2.png" class="figure-img img-fluid rounded" alt="Transmission scenario with third party">
+  <img src="/assets/images/e-ordering-2-en.png" class="figure-img img-fluid rounded" alt="Transmission scenario with third party">
   <figcaption class="figure-caption text-center">Transmission scenario with third party</figcaption>
 </figure>
 
