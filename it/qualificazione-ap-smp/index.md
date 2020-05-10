@@ -37,6 +37,7 @@ Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è 
 - [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)
 - [PEPPOL Transport Infrastructure Agreements Annex 5 – Domain and its specific services and service levels](/attachments/annex5-regionaldomain_rev5.pdf)
 - [PEPPOL Transport Infrastructure Agreements Annex 6 – Change procedure](/attachments/annex6-changeprocedure.pdf)
+- [Checklist italiana per l'onboarding AP Peppol](/attachments/APTest_Checklist_2.0.1_IT.pdf)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL Access Point Services in the Italian market](/attachments/peppol_ap_service_provider_agreement_in_italy_rev5.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market](/attachments/peppol_smp_provider_agreement_rev5.pdf)
