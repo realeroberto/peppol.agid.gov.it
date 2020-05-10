@@ -18,12 +18,12 @@ Per aderire come AP/SMP Provider:
     - _Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_ .
 4. Inviare via PEC i documenti all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), inserendo il seguente oggetto:
 > _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
-5. La Peppol Authority scriverà al contatto specificato nell&#39;Annex 1 al paragrafo 4.5, comunicandogli l&#39;esito della verifica della documentazione;
+5. La Peppol Authority scriverà al contatto specificato nell'Annex 1 al paragrafo 4.5, comunicandogli l'esito della verifica della documentazione;
 6. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test** ;
 7. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
 8. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
-    - **FASE 1:** seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
-    - **FASE 2** : dopo il superamento della FASE1, seguire la procedura riportata nel documento *Checklist italiana per l'onboarding AP Peppol*;
+    - **FASE 1**: seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
+    - **FASE 2**: dopo il superamento della FASE1, seguire la procedura riportata nel documento *Checklist italiana per l'onboarding AP Peppol*;
 9. La Peppol Authority comunicherà al Service Provider il superamento dei test e delle verifiche di interoperabilità, autorizzandolo alla richiesta dei certificati digitali per l'ambiente di **produzione**;
 10. La Peppol Authority trasmetterà al Service Provider l'accordo (o gli accordi) firmati digitalmente.
 
