@@ -12,10 +12,10 @@ Per aderire come AP/SMP Provider:
 1. Seguire la procedura di [iscrizione obbligatoria all'associazione OpenPEPPOL](https://peppol.eu/get-involved/join-openpeppol), specificando il ruolo che si vuole assumere: **Access Point (AP)** e/o **Service Metadata Publisher (SMP)**;
 2. Scaricare l'accordo per Access Point e/o l'accordo SMP Provider e i relativi 6 allegati disponibili nella sezione *Documenti allegati* presente in calce alla pagina;
 3. Compilare e firmare digitalmente i seguenti documenti:
-  1. _AP Service Provider Agreement/SMP Provider Agreement_ o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
-  2. _Annex 1 - Contact Points;_
-  3. _Annex 5 - Domain and its specific services and service levels;_
-  4. _Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_ .
+    - _AP Service Provider Agreement/SMP Provider Agreement_ o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
+    - _Annex 1 - Contact Points;_
+    - _Annex 5 - Domain and its specific services and service levels;_
+    - _Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_ .
 4. Inviare via PEC i documenti all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), inserendo il seguente oggetto:
 > _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
 5. La Peppol Authority scriverà al contatto specificato nell&#39;Annex 1 al paragrafo 4.5, comunicandogli l&#39;esito della verifica della documentazione;
