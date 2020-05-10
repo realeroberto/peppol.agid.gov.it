@@ -23,7 +23,7 @@ order: 4
     - **PHASE 1**: follow the instructions in the *Test and Onboarding* section of the website [https://peppol.eu/support/](https://peppol.eu/support/)
     - **PHASE 2**: after passing PHASE 1, follow the procedure reported in the Italian Checklist document for onboarding AP Peppol;
 9. The Peppol Authority will communicate to the Service Provider the passing of interoperability tests and checks, authorizing it to request digital certificates for the **production** environment;
-10. The Peppol Authority will transmit the digitally signed agreement (or agreements) to the Service Provider.
+10. The Peppol Authority will transmit the digitally countersigned agreement (or agreements) to the Service Provider.
 
 For technical questions related to interoperability tests and checks, please feel free to contactd the Peppol Assistance team, by writing to the email address [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it).
 

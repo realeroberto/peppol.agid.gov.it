@@ -25,7 +25,7 @@ Per aderire come AP/SMP Provider:
     - **FASE 1**: seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
     - **FASE 2**: dopo il superamento della FASE1, seguire la procedura riportata nel documento *Checklist italiana per l'onboarding AP Peppol*;
 9. La Peppol Authority comunicherà al Service Provider il superamento dei test e delle verifiche di interoperabilità, autorizzandolo alla richiesta dei certificati digitali per l'ambiente di **produzione**;
-10. La Peppol Authority trasmetterà al Service Provider l'accordo (o gli accordi) firmati digitalmente.
+10. La Peppol Authority trasmetterà al Service Provider l'accordo (o gli accordi) controfirmati digitalmente dalla medesima.
 
 Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è possibile avvalersi del team di Assistenza Peppol, scrivendo all'indirizzo [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it)
 
