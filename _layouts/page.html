@@ -61,8 +61,8 @@ layout: default
               <ul class="link-list">
                 <li class="nav-item active">
 
-                  <a class="nav-link {% if section.url == page.url %}active{% endif %}" aria-label="{{ site.data.t.goto[page.lang]}} {{ section.title }}"
-                    href="{{ site.baseurl }}{{ section.url }}"><span>{{ section.title }}</span></a>
+                  <!--<a class="nav-link {% if section.url == page.url %}active{% endif %}" aria-label="{{ site.data.t.goto[page.lang]}} {{ section.title }}"
+                      href="{{ site.baseurl }}{{ section.url }}"><span>{{ section.title }}</span></a>-->
 
                   {% assign items = site.pages | where: "child_of_ref", section.ref | where: "lang", page.lang | sort: "order" %}
                   {% for item in items %}
