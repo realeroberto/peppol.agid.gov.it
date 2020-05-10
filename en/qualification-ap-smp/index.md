@@ -10,10 +10,10 @@ order: 4
 1. Follow the [mandatory registration procedure for the OpenPEPPOL association](https://peppol.eu/get-involved/join-openpeppol), specifying the role you want to take on: **Access Point (AP)** and/or **Service Metadata Publisher (SMP)**;
 2. Download the Access Point agreement and/or the SMP Provider agreement and the related 6 attachments available in the *Attached documents* section at the bottom of this page;
 3. Compile and digitally sign the following documents:
-    - AP Service Provider Agreement / SMP Provider Agreement or both, depending on what is communicated to OpenPEPPOL;
-    - Annex 1 - Contact Points;
-    - Annex 5 - Domain and its specific services and service levels;
-    - Substitute declaration of the CCIAA registration certificate.
+    - _AP Service Provider Agreement / SMP Provider Agreement_ or both, depending on what is communicated to OpenPEPPOL;
+    - _Annex 1 - Contact Points_;
+    - _Annex 5 - Domain and its specific services and service levels_;
+    - Substitute declaration of the CCIAA (Italian Chamber of Commerce) registration certificate.
 4. Send the documents via PEC (Italian Certified Electronic Mail) to the address [protocol@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), inserting the following subject:
 > [PEPPOL] request for *company name* to sign the PEPPOL agreement
 5. The Peppol Authority will reply to the contact specified in Annex 1 in paragraph 4.5, communicating the outcome of the verification of the documentation;
@@ -21,7 +21,7 @@ order: 4
 7. The Peppol Authority will authorize the release of the aforementioned test certificates;
 8. The Service Provider will have to perform interoperability tests and verifications according to the following sequential PHASES:
     - **PHASE 1**: follow the instructions in the *Test and Onboarding* section of the website [https://peppol.eu/support/](https://peppol.eu/support/)
-    - **PHASE 2**: after passing PHASE 1, follow the procedure reported in the Italian Checklist document for onboarding AP Peppol;
+    - **PHASE 2**: after passing PHASE 1, follow the procedure reported in the _Peppol Access Point onboarding Test – Italian Checklist_;
 9. The Peppol Authority will communicate to the Service Provider the passing of interoperability tests and checks, authorizing it to request digital certificates for the **production** environment;
 10. The Peppol Authority will transmit the digitally countersigned agreement (or agreements) to the Service Provider.
 
