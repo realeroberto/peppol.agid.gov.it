@@ -7,6 +7,8 @@ ref: qualificazione-ap-smp
 order: 4
 ---
 
+In order to join as an AP/SMP Provider:
+
 1. Follow the [mandatory registration procedure for the OpenPEPPOL association](https://peppol.eu/get-involved/join-openpeppol), specifying the role you want to take on: **Access Point (AP)** and/or **Service Metadata Publisher (SMP)**;
 2. Download the Access Point agreement and/or the SMP Provider agreement and the related 6 attachments available in the *Attached documents* section at the bottom of this page;
 3. Compile and digitally sign the following documents:
