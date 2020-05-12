@@ -9,24 +9,27 @@ order: 4
 
 Per aderire come AP/SMP Provider:
 
-1. inviare una email a [peppol@agid.gov.it](mailto:peppol@agid.gov.it) manifestando l'intenzione di diventare
-   AP/SMP Provider
-2. seguire la procedura di iscrizione obbligatoria all’associazione OpenPEPPOL;
-3. scaricare l'accordo per Access Point e/o l'accordo SMP provider insieme ai 6
-   allegati disponibili in fondo a questa pagina;
-4. compilare le informazioni contenute nell'Allegato 1, nell'Allegato 5,
-   nell’Accordo AP e nell’Accordo SMP;
-5. firmare digitalmente la documentazione e inviarla via PEC all'indirizzo
-   [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it) insieme al
-   certificato di iscrizione al Registro Imprese;
-6. AGID richiede quindi all'autorità competente il rilascio dei certificati
-   digitali che il Service Provider utilizzerà per i test;
-7. al termine dei test e delle verifiche di interoperabilità AGID trasmette al
-   Service Provider l'accordo (o gli accordi) firmati digitalmente;
-8. AGID richiede all'autorità competente il rilascio dei certificati di
-   produzione con i quali il Service Provider è abilitato a operare come AP/SMP.
+1. Seguire la procedura di [iscrizione obbligatoria all'associazione OpenPEPPOL](https://peppol.eu/get-involved/join-openpeppol), specificando il ruolo che si vuole assumere: **Access Point (AP)** e/o **Service Metadata Publisher (SMP)**;
+2. Scaricare l'accordo per Access Point e/o l'accordo SMP Provider e i relativi 6 allegati disponibili nella sezione *Documenti allegati* presente in calce alla pagina;
+3. Compilare e firmare digitalmente i seguenti documenti:
+  1. _AP Service Provider Agreement/SMP Provider Agreement_ o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
+  2. _Annex 1 - Contact Points;_
+  3. _Annex 5 - Domain and its specific services and service levels;_
+  4. _Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_ .
+4. Inviare via PEC i documenti all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), inserendo il seguente oggetto:
+> _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
+5. La Peppol Authority scriverà al contatto specificato nell&#39;Annex 1 al paragrafo 4.5, comunicandogli l&#39;esito della verifica della documentazione;
+6. Il Service Provider potrà quindi compilare il [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) per richiedere il rilascio dei certificati digitali per lo svolgimento dei **test** ;
+7. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
+8. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
+    - **FASE 1:** seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
+    - **FASE 2** : dopo il superamento della FASE1, seguire la procedura riportata nel documento *Checklist italiana per l'onboarding AP Peppol*;
+9. La Peppol Authority comunicherà al Service Provider il superamento dei test e delle verifiche di interoperabilità, autorizzandolo alla richiesta dei certificati digitali per l'ambiente di **produzione**;
+10. La Peppol Authority trasmetterà al Service Provider l'accordo (o gli accordi) firmati digitalmente.
 
-Documenti allegati:
+Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è possibile avvalersi del team di Assistenza Peppol, scrivendo all'indirizzo [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it)
+
+### Documenti allegati
 
 - [PEPPOL Transport Infrastructure Agreements Annex 1 – Contact Points](/attachments/annex1-contatcpoints_0.pdf)
 - [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
