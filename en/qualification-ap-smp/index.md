@@ -7,18 +7,27 @@ ref: qualificazione-ap-smp
 order: 4
 ---
 
-To join as an AP / SMP Provider:
+1. Follow the [mandatory registration procedure for the OpenPEPPOL association](https://peppol.eu/get-involved/join-openpeppol), specifying the role you want to take on: **Access Point (AP)** and/or **Service Metadata Publisher (SMP)**;
+2. Download the Access Point agreement and/or the SMP Provider agreement and the related 6 attachments available in the *Attached documents* section at the bottom of this page;
+3. Compile and digitally sign the following documents:
+    - _AP Service Provider Agreement / SMP Provider Agreement_ or both, depending on what is communicated to OpenPEPPOL;
+    - _Annex 1 - Contact Points_;
+    - _Annex 5 - Domain and its specific services and service levels_;
+    - Substitute declaration of the CCIAA (Italian Chamber of Commerce) registration certificate.
+4. Send the documents via PEC (Italian Certified Electronic Mail) to the address [protocol@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), inserting the following subject:
+> [PEPPOL] request for *company name* to sign the PEPPOL agreement
+5. The Peppol Authority will reply to the contact specified in Annex 1 in paragraph 4.5, communicating the outcome of the verification of the documentation;
+6. The Service Provider can then fill in the [form](https://openpeppol.atlassian.net/servicedesk/customer/portal/1/create/13) to request the release of the digital certificates for the **tests**;
+7. The Peppol Authority will authorize the release of the aforementioned test certificates;
+8. The Service Provider will have to perform interoperability tests and verifications according to the following sequential PHASES:
+    - **PHASE 1**: follow the instructions in the *Test and Onboarding* section of the website [https://peppol.eu/support/](https://peppol.eu/support/)
+    - **PHASE 2**: after passing PHASE 1, follow the procedure reported in the _Peppol Access Point onboarding Test – Italian Checklist_;
+9. The Peppol Authority will communicate to the Service Provider the passing of interoperability tests and checks, authorizing it to request digital certificates for the **production** environment;
+10. The Peppol Authority will transmit the digitally countersigned agreement (or agreements) to the Service Provider.
 
-1. send an email to [peppol@agid.gov.it](mailto:peppol@agid.gov.it) showing the intention to become AP / SMP Provider
-2. follow the procedure of mandatory registration to the OpenPEPPOL association;
-3. download the Access Point agreement and / or the SMP provider agreement together with the 6 attachments available at the bottom of this page;
-4. fill in the information contained in Annex 1, in Annex 5, in the AP Agreement and in the SMP Agreement;
-5. digitally sign the documentation and send it via PEC to the address [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it) together with the certificate of registration in the Business Register;
-6. AGID then requests the competent authority to issue the digital certificates that the Service Provider will use for the tests;
-7. at the end of the tests and interoperability checks AGID sends the digitally signed agreement (or agreements) to the Service Provider;
-8. AGID requests the issuing of certificates from production with which the Service Provider is authorized to operate as AP / SMP.
+For technical questions related to interoperability tests and checks, please feel free to contactd the Peppol Assistance team, by writing to the email address [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it).
 
-Attached documents:
+### Attached documents
 
 - [PEPPOL Transport Infrastructure Agreements Annex 1 – Contact Points](/attachments/annex1-contatcpoints_0.pdf)
 - [PEPPOL Transport Infrastructure Agreements Annex 2 – Definitions](/attachments/annex2-definitions.pdf)
@@ -26,6 +35,7 @@ Attached documents:
 - [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)
 - [PEPPOL Transport Infrastructure Agreements Annex 5 – Domain and its specific services and service levels](/attachments/annex5-regionaldomain_rev5.pdf)
 - [PEPPOL Transport Infrastructure Agreements Annex 6 – Change procedure](/attachments/annex6-changeprocedure.pdf)
+- [Peppol Access Point onboarding Test – Italian Checklist](/attachments/APTest_Checklist_2.0.1_EN.pdf)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL Access Point Services in the Italian market](/attachments/peppol_ap_service_provider_agreement_in_italy_rev5.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market](/attachments/peppol_smp_provider_agreement_rev5.pdf)
