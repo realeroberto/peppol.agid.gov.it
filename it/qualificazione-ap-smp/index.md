@@ -13,9 +13,9 @@ Per aderire come AP/SMP Provider:
 2. Scaricare l'accordo per Access Point e/o l'accordo SMP Provider e i relativi 6 allegati disponibili nella sezione *Documenti allegati* presente in calce alla pagina;
 3. Compilare e firmare digitalmente i seguenti documenti:
     - _AP Service Provider Agreement/SMP Provider Agreement_ o entrambe, a seconda di quanto comunicato ad OpenPEPPOL;
-    - _Annex 1 - Contact Points;_
-    - _Annex 5 - Domain and its specific services and service levels;_
-    - _Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_ .
+    - [_Annex 1 - Contact Points_](/attachments/annex1-contatcpoints_0.pdf)
+    - [_Annex 5 - Domain and its specific services and service levels_](/attachments/annex5-regionaldomain_rev5.pdf);
+    - [_Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA_](/attachments/dichirazione_rea_compilabile_rev201812.pdf).
 4. Inviare via PEC i documenti all'indirizzo [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it), inserendo il seguente oggetto:
 > _[PEPPOL] richiesta di \*nomeSocietà\* per sottoscrizione accordo PEPPOL_
 5. La Peppol Authority scriverà al contatto specificato nell'Annex 1 al paragrafo 4.5, comunicandogli l'esito della verifica della documentazione;
@@ -23,7 +23,7 @@ Per aderire come AP/SMP Provider:
 7. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
 8. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
     - **FASE 1**: seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
-    - **FASE 2**: dopo il superamento della FASE1, seguire la procedura riportata nel documento *Checklist italiana per l'onboarding AP Peppol*;
+    - **FASE 2**: dopo il superamento della FASE1, seguire la procedura riportata nel documento [_Checklist italiana per l'onboarding AP Peppol_](/attachments/APTest_Checklist_2.0.1_IT.docx);
 9. La Peppol Authority comunicherà al Service Provider il superamento dei test e delle verifiche di interoperabilità, autorizzandolo alla richiesta dei certificati digitali per l'ambiente di **produzione**;
 10. La Peppol Authority trasmetterà al Service Provider l'accordo (o gli accordi) controfirmati digitalmente dalla medesima.
 
@@ -37,7 +37,7 @@ Per i quesiti tecnici relativi ai test e alle verifiche di interoperabilità è 
 - [PEPPOL Transport Infrastructure Agreements Annex 4 – Technical standards](/attachments/annex4-technicalstandards.pdf)
 - [PEPPOL Transport Infrastructure Agreements Annex 5 – Domain and its specific services and service levels](/attachments/annex5-regionaldomain_rev5.pdf)
 - [PEPPOL Transport Infrastructure Agreements Annex 6 – Change procedure](/attachments/annex6-changeprocedure.pdf)
-- [Checklist italiana per l'onboarding AP Peppol](/attachments/APTest_Checklist_2.0.1_IT.pdf)
+- [Checklist italiana per l'onboarding AP Peppol](/attachments/APTest_Checklist_2.0.1_IT.docx)
 - [Dichiarazione sostitutiva del certificato di iscrizione alla CCIAA](/attachments/dichirazione_rea_compilabile_rev201812.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL Access Point Services in the Italian market](/attachments/peppol_ap_service_provider_agreement_in_italy_rev5.pdf)
 - [PEPPOL Transport Infrastructure Agreements in Italy Terms and conditions for the provision of PEPPOL SMP Services in the Italian market](/attachments/peppol_smp_provider_agreement_rev5.pdf)
