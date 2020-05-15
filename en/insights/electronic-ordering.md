@@ -66,7 +66,7 @@ Provider which is at the same time **Certified Peppol Access Point** and
     </tr>
     <tr>
       <th scope="row">1</th>
-      <td>The PA (Corner 1) sends the PEPPOL BIS 3 order to its Access Point Provider (Corner 2) specifying the recipient (PEPPOL Participant ID)</td>
+      <td>The Public Administration (Corner 1) sends the PEPPOL BIS 3 order to its Access Point Provider (Corner 2) specifying the recipient (PEPPOL Participant ID)</td>
     </tr>
     <tr>
       <th scope="row">2</th>
@@ -74,15 +74,15 @@ Provider which is at the same time **Certified Peppol Access Point** and
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>The Access Point Provider (Corner 2) uses PEPPOL’s dynamic discovery (lookup on SML and SMP) to identify the Access Point (Corner 3) to which the order must be sent</td>
+      <td>The Access Point Provider (Corner 2) uses PEPPOL’s dynamic discovery (lookup on SML and SMP) to identify the Access Point (Corner 3) to which the order must be delivered</td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>The PA’s Access Point Provider (Corner 2) forwards the order to the Supplier’s Access Point Provider (Corner 3)</td>
+      <td>The Access Point Provider of the Public Administration (Corner 2) forwards the order to the Supplier’s Access Point Provider (Corner 3)</td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>The Supplier’s Access Point Provider (Corner 3) confirms receipt of the order at Corner 2 with a “Message Disposition Notification” sent on the PEPPOL network; at the same time, it makes the order available to the Supplier (Corner 4)</td>
+      <td>The Supplier’s Access Point Provider (Corner 3) confirms reception of the order at Corner 2 with a “Message Disposition Notification” sent over the PEPPOL network; at the same time, it makes the order available to the Supplier (Corner 4)</td>
     </tr>
     <tr>
       <th scope="row">6</th>
@@ -91,15 +91,6 @@ Provider which is at the same time **Certified Peppol Access Point** and
   </tbody>
 </table>
 
-| STEP | DESCRIPTION                                                                                                                                                                                                                                        |
-|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0    | The supplier (Corner 4) has a Peppol Participant ID registered on SMP- SML                                                                                                                                                                         |
-| 1    | The Public Administration (Corner 1) sends the Peppol BIS 3 order towards her own Access Point Provider (Corner 2) specifying the receiver (Peppol Participant ID)                                                                                 |
-| 2    | The Access Point Provider (Corner 2) sends the order to NSO using traditional channels provided by NSO in order to get a validation notification                                                                                                   |
-| 3    | The Access Point Provider (Corner 2) use the dynamic discovery of Peppol (lookup into SML and SMP) to detect the Access Point (Corner 3) to which must deliver the order                                                                           |
-| 4    | The Access Point of the Public Administration (Corner 2) forwards the order to Supplier’s Access Point Provider(Corner 3)                                                                                                                          |
-| 5    | The Access Point of the Economic Operator (Corner 3) confirms the order reception to Corner 2 with a “Message Disposition Notification” transmitted over the Peppol network; at the same time makes the order available to the Supplier (Corner 4) |
-| 6    | The Access Point Provider (Corner 2) notifies the reception of the transmission outcome to the original order sender (Corner 1), using a type of notification agreed by the parties                                                                |
 **TRANSMISSION SCENARIO WITH THIRD PARTY**
 
 The **Transmission** scenario takes place if only the recipient is registered
