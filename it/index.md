@@ -18,3 +18,9 @@ procedure di e-Procurement.
 {% endcapture %}
 
 {% include hero.html text=hero_text title=hero_title %}
+
+<main class="container my-5" markdown="1">
+
+{% include news.html %}
+
+</main>
