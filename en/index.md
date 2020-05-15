@@ -15,3 +15,9 @@ The Pan-European Public Procurement On-Line (PEPPOL) is a pilot project promoted
 {% endcapture %}
 
 {% include hero.html text=hero_text title=hero_title %}
+
+<main class="container my-5" markdown="1">
+
+{% include news.html %}
+
+</main>
