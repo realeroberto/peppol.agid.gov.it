@@ -9,9 +9,10 @@ categories: meetings
 permalink: /en/meetings/meeting-sp/
 ---
 
-Last November 5, 2019, AgID as PEPPOL Authority for Italy, has convened a meeting 
-of the PEPPOL service provider with the intent to inform and involve the Community
-to the national implementation situation and the upcoming trials to be defined.
+Last November 5, 2019, AgID as PEPPOL Authority for Italy, has convened a
+meeting of the PEPPOL service provider<!--more--> with the intent to inform and
+involve the Community to the national implementation situation and the upcoming
+trials to be defined.
 
 During the meeting, in addition to collecting comments on the new Framework Agreement, 
 the essential issues concerning the Italian PEPPOL Community were discussed including 

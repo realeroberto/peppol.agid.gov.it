@@ -9,7 +9,7 @@ categories: consultations
 permalink: /it/consultazioni/consultazione-peppol-ddt/
 ---
 
-La PEPPOL Authority ha indetto, dal 16 al 27 Marzo 2020, un processo di consultazione sul profilo PEPPOL BIS Documento di Trasporto 3.0 (DDT), al fine di stabilire lo standard PEPPOL nazionale per il Documento di Trasporto.
+La PEPPOL Authority ha indetto, dal 16 al 27 Marzo 2020, un processo di consultazione sul profilo PEPPOL BIS Documento di Trasporto 3.0 (DDT), al fine di stabilire lo standard PEPPOL nazionale per il Documento di Trasporto.<!--more-->
 
 Sono di seguito riportati i commenti ricevuti a seguito della consultazione pubblica. Tutti i commenti sono stati risolti e le specifiche tecniche sono state aggiornate conseguentemente, come specificato nelle note di rilascio delle stesse. Non sono pervenute osservazioni riguardo alle regole di business per il DTT 3.0.
 

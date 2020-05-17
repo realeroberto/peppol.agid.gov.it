@@ -9,7 +9,7 @@ categories: news
 permalink: /it/news/consultazione-peppol-ddt/
 ---
 
-AgID come PEPPOL Authority Italiana sta supportando la migrazione dei profili PEPPOL post-award adottati sul territorio nazionale, così come stabilito dal [piano di migrazione di OpenPEPPOL](https://docs.peppol.eu/poacc/upgrade-3/migration/).
+AgID come PEPPOL Authority Italiana sta supportando la migrazione dei profili PEPPOL post-award adottati sul territorio nazionale, così come stabilito dal [piano di migrazione di OpenPEPPOL](https://docs.peppol.eu/poacc/upgrade-3/migration/).<!--more-->
 
 Come noto, i profili PEPPOL BIS 3 relativi agli Ordini sono già stati adottati a livello nazionale, in ottemperanza alle regole tecniche NSO emanate dal Ministero dell’Economia e Finanze (MEF).
 
