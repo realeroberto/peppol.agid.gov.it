@@ -9,7 +9,7 @@ categories: consultations
 permalink: /en/consultations/ddt-consultation/
 ---
 
-The Italian PEPPOL Authority launched a consultation process on the PEPPOL BIS Despatch Advice 3.0 (DDT), from 16 to 27 March 2020, in order to establish the national PEPPOL standard for the Despatch Advice.
+The Italian PEPPOL Authority launched a consultation process on the PEPPOL BIS Despatch Advice 3.0 (DDT), from 16 to 27 March 2020, in order to establish the national PEPPOL standard for the Despatch Advice.<!--more-->
 
 The comments received following the public consultation are listed below. All comments have been resolved and the technical specifications have been updated accordingly, as specified in their release notes. No comments were received regarding the business rules for DTT 3.0.
 

@@ -9,7 +9,7 @@ categories: news
 permalink: /en/news/consultation-ddt/
 ---
 
-AgID, as Italian PEPPOL Authority, is supporting the migration of post-award PEPPOL profiles adopted nation-wide, as established by the [OpenPEPPOL migration plan](https://docs.peppol.eu/poacc/upgrade-3/migration/).
+AgID, as Italian PEPPOL Authority, is supporting the migration of post-award PEPPOL profiles adopted nation-wide, as established by the [OpenPEPPOL migration plan](https://docs.peppol.eu/poacc/upgrade-3/migration/).<!--more-->
 
 As is well known, the PEPPOL BIS 3 profiles relating to Orders have already been adopted at national level, in compliance with the NSO technical rules issued by the Ministry of Economy and Finance (MEF).
 

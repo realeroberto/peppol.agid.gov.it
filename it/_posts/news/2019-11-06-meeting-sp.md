@@ -10,7 +10,7 @@ permalink: /it/news/meeting-sp/
 ---
 
 Lo scorso 5 novembre 2019, AgID in qualità di PEPPOL Authority per l’Italia, 
-ha convocato un meeting dei Service Provider PEPPOL con l'intento di informare 
+ha convocato un meeting dei Service Provider PEPPOL<!--more--> con l'intento di informare 
 e coinvolgere la Community in merito allo stato delle implementazione nazionali 
 e alle prossime scandenze in via di definizione.
 
