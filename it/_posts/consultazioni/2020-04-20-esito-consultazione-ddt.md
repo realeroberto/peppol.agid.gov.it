@@ -17,7 +17,7 @@ Si ricorda che il suddetto processo di consultazione e approvazione NON ha attua
 
 Da questo momento, il profilo PEPPOL BIS Documento di Trasporto 3.0 italiano può essere usato per gli sviluppi software.
 
-L'ambiente di test dell’Authority è utilizzabile per effettuare i test inerenti al profilo in oggetto, previa contatto con [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it).
+L'ambiente di test dell’Authority è utilizzabile per effettuare i test inerenti al profilo in oggetto, previo contatto con [assistenzaPEPPOL@agid.gov.it](mailto:assistenzaPEPPOL@agid.gov.it).
 
 Il termine ultimo della migrazione del DDT è fissato al 30 settembre 2020, data entro la quale i Service Provider dovranno dismettere l’utilizzo del profilo PEPPOL BIS 30A.
 
