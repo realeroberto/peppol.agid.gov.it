@@ -7,9 +7,9 @@ ref: chi-siamo
 order: 2
 ---
 
-AgID ricopre il ruolo di PEPPOL Authority in Italia svolgendo le funzioni di
-qualifica, gestione, monitoraggio e supporto informativo agli utilizzatori
-dell'infrastruttura PEPPOL.
+[AgID](https://www.agid.gov.it/) ricopre il ruolo di PEPPOL Authority in Italia
+svolgendo le funzioni di qualifica, gestione, monitoraggio e supporto
+informativo agli utilizzatori dell'infrastruttura PEPPOL.
 
 L’infrastruttura di trasporto PEPPOL fa riferimento ad un modello di governance
 che prevede un insieme di entità e documenti che regolano le attività di tutti i
