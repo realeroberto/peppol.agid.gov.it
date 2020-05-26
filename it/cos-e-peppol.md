@@ -7,11 +7,11 @@ ref: cos-e-peppol
 order: 3
 ---
 
-Il Pan-European Public Procurement On-Line (PEPPOL) nasce come una iniziativa 
-progettuale  sul tema degli acquisti digitali promossa dalla Commissione Europea 
-nel periodo compreso tra il 2008 e il 2012.
-Alla conclusione del progetto l’associazione OpenPEPPOL ha assunto 
-il governo delle componenti fondamentali del sistema.
+Il [Pan-European Public Procurement On-Line (PEPPOL)](https://peppol.eu/) nasce
+come iniziativa progettuale sul tema degli acquisti digitali promossa dalla
+Commissione Europea nel periodo compreso tra il 2008 e il 2012. Alla
+conclusione del progetto l’associazione OpenPEPPOL ha assunto il governo delle
+componenti fondamentali del sistema.
 
 PEPPOL è un insieme di elementi infrastrutturali e di specifiche tecniche 
 promosse dalla Commissione Europea nell’ambito delle iniziative CEF e che 

@@ -7,9 +7,9 @@ ref: cos-e-peppol
 order: 3
 ---
 
-The Pan-European Public Procurement Online (PEPPOL) began as a project initiative 
-on the subject of digital purchases promoted by the European Commission in the period 
-between 2008 and 2012.
+The [Pan-European Public Procurement On-Line (PEPPOL)](https://peppol.eu/)
+began as a project initiative on the subject of digital purchases promoted by
+the European Commission in the period between 2008 and 2012.
 
 At the end of the project the OpenPEPPOL association took over the governance of the fundamental components of the system.
 PEPPOL is a set of infrastructural elements and technical specifications promoted by the European Commission in the context 
