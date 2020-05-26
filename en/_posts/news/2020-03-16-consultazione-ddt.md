@@ -19,7 +19,7 @@ The aforementioned consultation and approval process does NOT currently have any
 
 Any future change to the NSO, aimed at supporting DDT, will be communicated by the Ministry of Economy and Finance and will also be confirmed by AgID.
 
-The draft specification on PEPPOL BIS Despatch Advice 3.0 can be consulted at this [link](https://notier.regione.emilia-romagna.it/docs/) [PEPPOL BIS 3 section (other processes)].
+The draft specification on PEPPOL BIS Despatch Advice 3.0 can be consulted on the [technical specifications website](https://peppol-docs.agid.gov.it/) [PEPPOL BIS 3 section (other processes)].
 
 The consultation roadmap includes:
 

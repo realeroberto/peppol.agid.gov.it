@@ -29,9 +29,8 @@ The **NSO** system is the **central infrastructure** for the exchange of
 electronic orders between public bodies and suppliers, which, in addition to
 traditional channels (PEC, FTP, WS), also provides for the transmission of
 documents over the PEPPOL network. To this end, NSO natively adopts the PEPPOL
-BIS 3 (UBL) technical specifications for the ordering, the order only and the
-order agreement, available at this
-[link](https://notier.regione.emilia-romagna.it/docs/).
+BIS 3 (UBL) [technical specifications](https://peppol-docs.agid.gov.it/) for
+the ordering, the order only and the order agreement.
 
 Suppliers already registered on the PEPPOL network can interact with NSO without
 further developments, as described below for the Validation and Transmission

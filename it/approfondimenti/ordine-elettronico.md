@@ -28,10 +28,10 @@ partire dal:
 
 **Il sistema NSO**, rappresenta l’**infrastruttura centrale** per lo scambio di
 ordini elettronici tra enti pubblici e fornitori, il quale prevede, oltre ai
-canali tradizionali (PEC, FTP, WS) anche la trasmissione dei documenti su **rete
-Peppol**. A tal fine NSO adotta, nativamente, le specifiche tecniche **Peppol
-BIS 3 (UBL)** per l’ordine, l’ordine semplice e l’ordine pre-concordato,
-disponibile al seguente [link](https://notier.regione.emilia-romagna.it/docs/).
+canali tradizionali (PEC, FTP, WS) anche la trasmissione dei documenti su
+**rete Peppol**. A tal fine NSO adotta, nativamente, le [specifiche
+tecniche](https://peppol-docs.agid.gov.it/) **Peppol BIS 3 (UBL)** per
+l’ordine, l’ordine semplice e l’ordine pre-concordato.
 
 I fornitori già registrati su rete Peppol possono interagire con NSO senza
 ulteriori sviluppi, semplicemente in virtù dello scenario di *Validazione* o di
