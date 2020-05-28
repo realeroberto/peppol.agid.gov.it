@@ -19,7 +19,7 @@ Il suddetto processo di consultazione e approvazione NON ha attualmente impatti 
 
 Future ed eventuali variazioni di NSO, finalizzate al supporto dei DDT, verranno comunicate dal Ministero dell’Economia e Finanze e saranno ribadite anche dalla scrivente.
 
-La bozza delle specifiche sul **PEPPOL BIS Documento di Trasporto 3.0** sono consultabili a questo [link](https://notier.regione.emilia-romagna.it/docs/) [sezione PEPPOL BIS 3(altri processi)].
+La bozza delle specifiche sul **PEPPOL BIS Documento di Trasporto 3.0** sono consultabili sul [sito delle specifiche tecniche](https://peppol-docs.agid.gov.it/) [sezione PEPPOL BIS 3(altri processi)].
 
 La roadmap della consultazione prevede:
 - **19 Marzo 2020** – ore 14:30 – 15:30 – webinar di presentazione del PEPPOL BIS Documento di Trasporto 3.0 nazionale;
