@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-hero_title: Improve public procurement
+hero_title: Italy and global trade
 hero_description: PEPPOL allows companies across Europe to communicate electronically with public purchasers at various stages of the procurement procedure.
 lang: en
 ref: homepage
