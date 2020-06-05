@@ -23,11 +23,11 @@ obligation as follows:
 
 -   February 1, 2020 for orders relating to goods;
 
--   February 1, 2021 for orders relating to services.
+-   January 1, 2021 for orders relating to services.
 
 The **NSO** system is the **central infrastructure** for the exchange of
 electronic orders between public bodies and suppliers, which, in addition to
-traditional channels (PEC, FTP, WS), also provides for the transmission of
+the traditional channels (PEC, FTP, WS), also provides for the transmission of
 documents over the PEPPOL network. To this end, NSO natively adopts the PEPPOL
 BIS 3 (UBL) [technical specifications](https://peppol-docs.agid.gov.it/) for
 the ordering, the order only and the order agreement.
@@ -40,7 +40,7 @@ with a third party scenarios.
 
 The **Validation** scenario takes place if and only if both the sender and the
 recipient are registered on PEPPOL SMP/SML; in such a case, the NSO validates
-the order but the transmission occurs over the PEPPOL network.
+the order but the transmission occurs entirely over the PEPPOL network.
 
 This scenario assumes that the Public Administration makes use of a Service
 Provider which is at the same time **Certified Peppol Access Point** and
@@ -65,15 +65,15 @@ Provider which is at the same time **Certified Peppol Access Point** and
     </tr>
     <tr>
       <th scope="row">1</th>
-      <td>The Public Administration (Corner 1) sends the PEPPOL BIS 3 order to its Access Point Provider (Corner 2) specifying the recipient (PEPPOL Participant ID)</td>
+      <td>The Public Administration (Corner 1) sends the PEPPOL BIS 3 order to its Access Point Provider (Corner 2) specifying the recipient (PEPPOL Participant ID of the Supplier - Corner 4)</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>The Access Point Provider (Corner 2) sends the order to NSO using the traditional channels provided by NSO in order to obtain a validation notification</td>
+      <td>The Access Point Provider of the Public Administration (Corner 2) sends the order to NSO using the traditional channels provided by NSO in order to obtain a validation notification</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>The Access Point Provider (Corner 2) uses PEPPOL’s dynamic discovery (lookup on SML and SMP) to identify the Access Point (Corner 3) to which the order must be delivered</td>
+      <td>The Access Point Provider (Corner 2) uses PEPPOL’s dynamic discovery (lookup on SML and SMP) to identify the Access Point Provider of the Supplier (Corner 3) to which the order must be delivered</td>
     </tr>
     <tr>
       <th scope="row">4</th>
@@ -81,24 +81,26 @@ Provider which is at the same time **Certified Peppol Access Point** and
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>The Supplier’s Access Point Provider (Corner 3) confirms reception of the order at Corner 2 with a “Message Disposition Notification” sent over the PEPPOL network; at the same time, it makes the order available to the Supplier (Corner 4)</td>
+      <td>The Supplier’s Access Point Provider (Corner 3) confirms reception of the order at the Access Point Provider of the Public Administration (Corner 2) with a “Message Disposition Notification” (MDN) sent over the PEPPOL network; at the same time, it makes the order available to the Supplier (Corner 4)</td>
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>The Access Point Provider (Corner 2) sends a notification as the outcome of the transmission to the original sender of the order (Corner 1), using a notification type agreed between the parties</td>
+      <td>The Access Point Provider of the Public Administration (Corner 2) sends a notification as the outcome of the transmission to the original sender of the order (Corner 1 - Public Administration), using a notification type agreed between the parties</td>
     </tr>
   </tbody>
 </table>
 
 **TRANSMISSION SCENARIO WITH THIRD PARTY**
 
-The **Transmission** scenario takes place if only the recipient is registered
-on PEPPOL SMP/SML: in such a case, NSO receives the order through traditional
-channels (PEC, FTP and WS) and forwards it to the recipient on the PEPPOL
-network.
+The **Transmission** scenario takes place if it is only the recipient to be
+registered on PEPPOL SMP/SML. In such a case, NSO receives the order directly
+from the Public Administration with an NSO address through traditional channels
+(PEC, FTP and WS). The order is then forwarwed to the to the recipient on the
+PEPPOL network.
 
 This scenario is supported thanks to the availability of the national PEPPOL
-Access Point for the PA deployed by AgID and integrated with NSO.
+Access Point for the PA deployed by AgID, the national PEPPOL Authority, and
+integrated with NSO.
 
 <figure class="figure">
   <img src="/assets/images/e-ordering-2-en.png" class="figure-img img-fluid rounded" alt="Transmission scenario with third party">
@@ -119,15 +121,15 @@ Access Point for the PA deployed by AgID and integrated with NSO.
     </tr>
     <tr>
       <th scope="row">1</th>
-      <td>The PA sends the PEPPOL BIS 3 Order to NSO (Corner 1) specifying the receiver (PEPPOL Participant ID)</td>
+      <td>The PA sends the PEPPOL BIS 3 Order to NSO (Corner 1) specifying the receiver (PEPPOL Participant ID of the Supplier - Corner 4)</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Provided internal checks are successful, NSO sends the order to the national PEPPOL Access Point for the PA (Corner 2)</td>
+      <td>Provided internal checks are successful, NSO (Corner 1) sends the order to the national PEPPOL Access Point for the PA (Corner 2)</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>The national PEPPOL Access Point for the PA (Corner 2) uses PEPPOL’s dynamic discovery (lookup on SML and SMP) to identify the Access Point (Corner 3) to which it must deliver the document</td>
+      <td>The national PEPPOL Access Point for the PA (Corner 2) uses PEPPOL’s dynamic discovery (lookup on SML and SMP) to identify the Access Point Provider of the Supplier (Corner 3) to which it must deliver the document</td>
     </tr>
     <tr>
       <th scope="row">4</th>
@@ -135,11 +137,11 @@ Access Point for the PA deployed by AgID and integrated with NSO.
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>The Supplier's Access Point Provider (Corner 3) aknowledges receipt of the order at Corner 2 with a “Message Disposition Notification” transmitted over the PEPPOL network; at the same time, it makes the order available to the Supplier (Corner 4)</td>
+      <td>The Supplier's Access Point Provider (Corner 3) acknowledges receipt of the order at the national PEPPOL Access Point for the PA (Corner 2) with a “Message Disposition Notification” transmitted over the PEPPOL network; at the same time, it makes the order available to the Supplier (Corner 4)</td>
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>The Access Point Provider (Corner 2) delivers the notification received for the outcome of the transmission over the PEPPOL network to NSO (Corner 1)</td>
+      <td>The national Point Provider for the PA (Corner 2) delivers the notification received for the outcome of the transmission over the PEPPOL network to NSO (Corner 1)</td>
     </tr>
     <tr>
       <th scope="row">7</th>
