@@ -99,7 +99,7 @@ from the Public Administration with an NSO address through traditional channels
 PEPPOL network.
 
 This scenario is supported thanks to the availability of the national PEPPOL
-Access Point for the PA deployed by AgID, the national PEPPOL Authority, and
+Access Point for the PA made available by the national PEPPOL Authority and
 integrated with NSO.
 
 <figure class="figure">

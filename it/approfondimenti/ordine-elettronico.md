@@ -102,7 +102,7 @@ indirizzo NSO tramite i canali tradizionali (PEC, FTP e WS). L’ordine viene po
 trasmesso al destinatario (Fornitore) con indirizzo Peppol su rete Peppol.
 
 Tale scenario è supportato dalla disponibilità dell’**Access Point Peppol unico
-per la PA** realizzato dalla PEPPOL Authority nazionale, AgID,  ed integrato
+per la PA** messo a disposizione dalla PEPPOL Authority nazionale ed integrato
 con NSO.
 
 <figure class="figure">
