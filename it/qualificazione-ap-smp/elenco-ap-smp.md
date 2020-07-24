@@ -6,7 +6,7 @@ lang: it
 ref: elenco-ap-smp
 order: 5
 child_of_ref: qualificazione-ap-smp
-last_update: 06/05/2020
+last_update: 24/07/2020
 ---
 
 Di seguito è possibile visionare l'elenco dei PEPPOL Access Point Provider

@@ -137,6 +137,12 @@
   registered_office: Via Meucci, 5 - 37135 Verona
   contact_point: Marco Marsilio
   contact_info: marco.marsilio@tecmarket.it
+- business_name: Tesi S.p.A.
+  ap: true
+  smp: true
+  registered_office: Via Mendicità Istruita, 24 – 12042 Bra (CN)
+  contact_point: Luca Del Santo
+  contact_info: b2b@service.tesisquare.com
 - business_name: Top Consult S.r.l.
   ap: true
   smp: true
