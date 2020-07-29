@@ -16,14 +16,14 @@ Specifiche informative sono rese per l’erogazione di determinati servizi.
 
 ### Titolare del trattamento dei dati personali
 
-**AGID – Agenzia per l’Italia Digitale**
+#### AGID – Agenzia per l’Italia Digitale
 
 Indirizzo: [Via Liszt 21 - 00144
 Roma](https://maps.google.it/maps?q=Via+Liszt,+21,+00144+Roma&hnear=Via+Liszt,+21,+00144+Roma&t=m&z=16)
 
 Indirizzo PEC: [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it)
  
-**Contatti del responsabile della protezione dei dati**
+#### Contatti del responsabile della protezione dei dati
 
 Indirizzo: [Via Liszt 21 - 00144
 Roma](https://maps.google.it/maps?q=Via+Liszt,+21,+00144+Roma&hnear=Via+Liszt,+21,+00144+Roma&t=m&z=16),
@@ -31,7 +31,7 @@ presso AGID
 
 Indirizzo e-mail: [responsabileprotezionedati@agid.gov.it](mailto:responsabileprotezionedati@agid.gov.it)
 
-**Autorità di controllo**
+#### Autorità di controllo
 
 **Garante per la protezione dei dati personali**
 
