@@ -92,7 +92,7 @@ footer-links:
     privacy-policy:
       name: "Privacy policy"
       title: "Privacy policy"
-      url: "/it/privacy"
+      url: "/en/privacy"
   it:
     privacy-policy:
       name: '<span lang="en">Privacy policy</span>'
