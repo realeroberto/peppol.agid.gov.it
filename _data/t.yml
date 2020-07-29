@@ -97,7 +97,7 @@ footer-links:
     privacy-policy:
       name: '<span lang="en">Privacy policy</span>'
       title: "Privacy policy"
-      url: "https://www.agid.gov.it/it/privacy-policy"
+      url: "/it/privacy"
 go-home:
   en: "Go to home page"
   it: "Vai alla home page"
