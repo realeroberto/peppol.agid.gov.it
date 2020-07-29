@@ -70,15 +70,15 @@ disabilitare i cookie, intervenendo sulle impostazioni del proprio browser
 di navigazione secondo le istruzioni rese disponibili dai relativi fornitori
 ai link di seguito indicati:
 
--   [Chrome](https://support.google.com/chrome/answer/95647?hl=eng)
+-   [Chrome](https://support.google.com/chrome/answer/95647?hl=it)
 
--   [Firefox](https://support.mozilla.org/it/kb/Gestione%20dei%20cookie#w_impostazioni-dei-cookie)
+-   [Firefox](https://support.mozilla.org/it/kb/Gestione%20dei%20cookie)
 
 -   [Safari](https://support.apple.com/it-it/HT201265)
 
--   [Internet Explorer](http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies)
+-   [Internet Explorer](https://support.microsoft.com/it-it/help/17442/windows-internet-explorer-delete-manage-cookies)
 
--   [Opera](http://www.opera.com/help/tutorials/security/cookies/)
+-   [Opera](https://help.opera.com/en/latest/web-preferences/)
 
 #### Servizi di terze parti
 
