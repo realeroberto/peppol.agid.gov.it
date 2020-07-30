@@ -119,6 +119,12 @@
   registered_office: Via Notari, 103 - 41126 Modena
   contact_point: Paola Daniela Monari
   contact_info: p.monari@satanet.it
+- business_name: Savino Solution S.r.l.
+  ap: true
+  smp: true
+  registered_office: Piazza Flavio Gioia, 3 - 84122 Salerno
+  contact_point: Nicola Savino
+  contact_info: nicola.savino@savinosolution.com
 - business_name: SIAV S.p.A.
   ap: true
   smp: true
