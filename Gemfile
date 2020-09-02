@@ -4,6 +4,7 @@ ruby RUBY_VERSION
 gem 'jekyll', '3.9.0'
 
 gem 'html-proofer', '~> 3.11'
+gem 'kramdown-parser-gfm'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
