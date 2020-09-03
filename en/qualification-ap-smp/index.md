@@ -23,7 +23,7 @@ In order to join as an AP/SMP Provider:
 7. The Peppol Authority will authorize the release of the aforementioned test certificates;
 8. The Service Provider will have to perform interoperability tests and verifications according to the following sequential PHASES:
     - **PHASE 1**: follow the instructions in the *Test and Onboarding* section of the website [https://peppol.eu/support/](https://peppol.eu/support/)
-    - **PHASE 2**: after passing PHASE 1, follow the procedure reported in the [_Peppol Access Point onboarding Test – Italian Checklist_](/attachments/APTest_Checklist_2.0.1_EN.docx);
+    - **PHASE 2**: after passing PHASE 1, follow the procedure reported in the [_Peppol Access Point onboarding Test – Italian Checklist_](/attachments/APTest_Checklist_3.0.0_EN.docx);
 9. The Peppol Authority will communicate to the Service Provider the passing of interoperability tests and checks, authorizing it to request digital certificates for the **production** environment;
 10. The Peppol Authority will transmit the digitally countersigned agreement (or agreements) to the Service Provider.
 

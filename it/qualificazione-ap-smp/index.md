@@ -23,7 +23,7 @@ Per aderire come AP/SMP Provider:
 7. La Peppol Authority autorizzerà il rilascio dei suddetti certificati di test;
 8. Il Service Provider dovrà eseguire i test e verifiche di interoperabilità secondo le seguenti FASI sequenziali:
     - **FASE 1**: seguire le indicazioni presenti nella sezione *Test and Onboarding* del sito [https://peppol.eu/support/](https://peppol.eu/support/)
-    - **FASE 2**: dopo il superamento della FASE1, seguire la procedura riportata nel documento [_Checklist italiana per l'onboarding AP Peppol_](/attachments/APTest_Checklist_2.0.1_IT.docx);
+    - **FASE 2**: dopo il superamento della FASE1, seguire la procedura riportata nel documento [_Checklist italiana per l'onboarding AP Peppol_](/attachments/APTest_Checklist_3.0.0_IT.docx);
 9. La Peppol Authority comunicherà al Service Provider il superamento dei test e delle verifiche di interoperabilità, autorizzandolo alla richiesta dei certificati digitali per l'ambiente di **produzione**;
 10. La Peppol Authority trasmetterà al Service Provider l'accordo (o gli accordi) controfirmati digitalmente dalla medesima.
 
