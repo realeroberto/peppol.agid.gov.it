@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Consultazioni
+title: Consultations
 description: 
-lang: it
+lang: en
 ref: consultations
 order: 1
-child_of_ref: get-involved
+child_of_ref: news
 ---
 
 <main class="container my-5" markdown="1">
