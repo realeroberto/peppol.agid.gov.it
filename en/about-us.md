@@ -4,7 +4,7 @@ title: About us
 description: 
 lang: en
 ref: chi-siamo
-order: 2
+order: 1
 ---
 
 [AgID](https://www.agid.gov.it/) covers the role of PEPPOL Authority in Italy

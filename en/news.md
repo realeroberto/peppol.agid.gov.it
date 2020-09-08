@@ -4,7 +4,7 @@ title: News
 description: 
 lang: en
 ref: news
-order: 8
+order: 5
 ---
 
 <main class="container my-5" markdown="1">
