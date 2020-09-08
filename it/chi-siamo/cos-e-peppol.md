@@ -4,7 +4,8 @@ title: Cos'è PEPPOL
 description: 
 lang: it
 ref: cos-e-peppol
-order: 3
+order: 1
+child_of_ref: about-us
 ---
 
 Il [Pan-European Public Procurement On-Line (PEPPOL)](https://peppol.eu/) nasce
