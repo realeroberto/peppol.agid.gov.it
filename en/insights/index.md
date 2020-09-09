@@ -4,7 +4,7 @@ title: Insights
 description: 
 lang: en
 ref: insights
-order: 7
+order: 4
 ---
 
 The Circular No. 3 of 6 December 2016 which defines the Technical Rules

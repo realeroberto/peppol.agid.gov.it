@@ -4,7 +4,7 @@ title: Approfondimenti
 description: 
 lang: it
 ref: approfondimenti
-order: 7
+order: 4
 ---
 
 Con la Circolare n.3 del 6 dicembre 2016 che definisce le Regole tecniche

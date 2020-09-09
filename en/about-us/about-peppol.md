@@ -4,7 +4,8 @@ title: About PEPPOL
 description: 
 lang: en
 ref: cos-e-peppol
-order: 3
+order: 1
+child_of_ref: about-us
 ---
 
 The [Pan-European Public Procurement On-Line (PEPPOL)](https://peppol.eu/)

@@ -4,7 +4,7 @@ title: Technical specifications
 description:
 lang: en
 ref: specifiche-tecniche
-order: 6
+order: 3
 ---
 
 The technical specifications and implementations shown below constitute the Italian extension of the OpenPEPPOL specifications, which incorporate the Italian rules for the use of business documents.
