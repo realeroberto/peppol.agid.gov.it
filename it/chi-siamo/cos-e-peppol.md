@@ -8,22 +8,6 @@ order: 1
 child_of_ref: chi-siamo
 ---
 
-Il [Pan-European Public Procurement On-Line (PEPPOL)](https://peppol.eu/) nasce
-come iniziativa progettuale sul tema degli acquisti digitali promossa dalla
-Commissione Europea nel periodo compreso tra il 2008 e il 2012. Alla
-conclusione del progetto l’associazione OpenPEPPOL ha assunto il governo delle
-componenti fondamentali del sistema.
-
-PEPPOL è un insieme di elementi infrastrutturali e di specifiche tecniche 
-promosse dalla Commissione Europea nell’ambito delle iniziative CEF e che 
-rendono possibile l’interoperabilità tra i vari sistemi di e-procurement, 
-a livello transfrontaliero.
-Le componenti fondamentali del sistema sono: l’infrastruttura di rete 
-PEPPOL eDelivery Network, le specifiche per l’interoperabilità dei 
-documenti di Business PEPPOL Business Interoperability Specifications (BIS), 
-gli accordi che regolano l’utilizzo della rete PEPPOL Transport Infrastructure 
-Agreements (TIA).
-
 AGID coordina le attività finalizzate all’adozione dell’e-Procurement nel
 settore pubblico e definisce le regole tecniche per l’interoperabilità dei
 sistemi coinvolti.
@@ -36,9 +20,10 @@ pubblico.
 
 ## Come funziona PEPPOL?
 
-PEPPOL si basa su un’architettura 4 corner che interconnette i soggetti che si
-scambiano documenti in una delle fasi dell’e-Procurement. I 4 corner
-rappresentano nello specifico:
+Il [Pan-European Public Procurement On-Line (PEPPOL)](https://peppol.eu/) si
+basa su un’architettura 4 corner che interconnette i soggetti che si scambiano
+documenti in una delle fasi dell’e-Procurement. I 4 corner rappresentano nello
+specifico:
 
 - Corner 1: il mittente del documento
 - Corner 2: l’Access Point (AP) PEPPOL a cui è connesso il mittente
