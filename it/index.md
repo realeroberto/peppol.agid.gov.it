@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-hero_title: Italia e global trade
+hero_title: "L'Italia per gli appalti trasfrontalieri"
 hero_description: PEPPOL consente alle imprese di tutta Europa di comunicare elettronicamente con gli acquirenti pubblici in varie fasi della procedura di appalto.
 lang: it
 ref: homepage
