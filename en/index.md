@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-hero_title: Italy and global trade
+hero_title: "Italy for cross-border procurement"
 hero_description: PEPPOL allows companies across Europe to communicate electronically with public purchasers at various stages of the procurement procedure.
 lang: en
 ref: homepage
