@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Home
-hero_title: "Italy for cross-border procurement"
-hero_description: PEPPOL allows companies across Europe to communicate electronically with public purchasers at various stages of the procurement procedure.
+hero_title: "Italy for digital business"
+hero_description: "PEPPOL allows companies and public administrations to send and receive business documents in standard format over an open, global, and secure network."
 lang: en
 ref: homepage
 ---
@@ -11,7 +11,28 @@ What is PEPPOL?
 {% endcapture %}
 
 {% capture hero_text %}
-The Pan-European Public Procurement On-Line (PEPPOL) is a pilot project promoted by the European Commission to identify a set of infrastructure elements and technical specifications that enable and facilitate e-Procurement procedures.
+PEPPOL allows fast, efficient, and borderless commercial exchanges.
+
+PEPPOL document specifications encompass global business processes by
+standardizing the way information is structured and exchanged.
+
+In addition to the standard formats and to a secure network, PEPPOL provides
+the governance to make it work, through binding agreements that guarantee the
+compliance of the parties involved.
+
+PEPPOL is not a platform. PEPPOL is an enabler. Any organization can operate on
+the PEPPOL open network through a PEPPOL certified service provider.
+
+No more closed systems. By connecting to PEPPOL you can have business
+relationships with any PEPPOL-enabled organization anywhere in the world.
+
+PEPPOL's approach reduces costs, fosters growth, drives innovation and healthy
+competition.
+
+PEPPOL (Pan-European Public Procurement On-Line) was born in 2008 as a pilot
+project funded by the European Commission to identify a set of infrastructural
+elements and technical specifications capable of enabling and facilitating
+e-procurement processes.
 {% endcapture %}
 
 {% include hero.html text=hero_text title=hero_title %}
