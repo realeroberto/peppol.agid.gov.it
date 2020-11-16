@@ -11,7 +11,7 @@ permalink: /it/news/fall-release-2020-peppol-post-award-bis/
 
 Il consorzio OpenPEPPOL ha pubblicato la release autunnale (Post Award BIS Fall Release) della documentazione tecnica riguardante tutti i profili PEPPOL.
 
-Tale release è stata recepita dalla PEPPOL Authority Agid per quanto riguarda le specifiche tecniche utilizzate nel dominio italiano e, **a partire da oggi 6 Novembre 2020,** sono disponibili in consultazione all'indirizzo: <https://peppol-docs.agid.gov.it/> 
+Tale release è stata recepita dalla PEPPOL Authority Agid per quanto riguarda le specifiche tecniche utilizzate nel dominio italiano e, **a partire da oggi 6 Novembre 2020,** sono disponibili in consultazione all'indirizzo: <https://peppol-docs.agid.gov.it/>.<!--more-->
 
 **L'adeguamento** alle nuove specifiche **è obbligatorio a partire dal** **16 Novembre 2020**.
 

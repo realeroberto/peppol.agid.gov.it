@@ -11,7 +11,7 @@ permalink: /en/news/fall-release-2020-peppol-post-award-bis/
 
 The OpenPEPPOL consortium has published the Post Award BIS Fall Release of the technical documentation covering all PEPPOL profiles.
 
-This release has been acknowledged by AGID as PEPPOL Authority with reference to the technical specifications used in the Italian domain and, **starting from today November 6, 2020**, they are available for consultation at: <https://peppol-docs.agid.gov.it/>
+This release has been acknowledged by AGID as PEPPOL Authority with reference to the technical specifications used in the Italian domain and, **starting from today November 6, 2020**, they are available for consultation at: <https://peppol-docs.agid.gov.it/>.<!--more-->
 
 **The adaptation** to the new specifications **is mandatory starting from November 16, 2020**.
 

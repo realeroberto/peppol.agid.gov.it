@@ -11,7 +11,7 @@ permalink: /it/news/peppol-bis-billing-3-0-fall-release-corrigendum/
 
 Il 12 novembre 2020 il consorzio OpenPeppol ha pubblicato un corrigendum alla release autunnale (Post Award BIS Fall Release).
 
-Il Corrigendum è stato recepito dalla Peppol Authority Agid per quanto riguarda le specifiche tecniche utilizzate nel dominio italiano ed è disponibile [qui](https://peppol-docs.agid.gov.it/), ad integrazione di quanto già pubblicato il 6/11/2020.
+Il Corrigendum è stato recepito dalla Peppol Authority Agid per quanto riguarda le specifiche tecniche utilizzate nel dominio italiano ed è disponibile [qui](https://peppol-docs.agid.gov.it/), ad integrazione di quanto già pubblicato il 6/11/2020.<!--more-->
 
 Si ricorda che l'adeguamento alle nuove specifiche è obbligatorio a partire da oggi 16 novembre 2020.
 
