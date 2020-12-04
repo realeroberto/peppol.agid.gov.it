@@ -133,7 +133,7 @@
   contact_info: nicola.savino@savinosolution.com
 - business_name: SB Italia S.r.l.
   ap: true
-  smp: false
+  smp: true
   registered_office: Viale Forlanini, 36 - 20024 Garbagnate Milanese (MI)
   contact_point: Marina Gallo
   contact_info: marina.gallo@sbitalia.com
