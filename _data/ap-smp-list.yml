@@ -113,6 +113,12 @@
   registered_office: Piazzale Lombardia, 10 - 28100 Novara
   contact_point: Marco Tacchini
   contact_info: peppol@mastersoft.it
+- business_name: MX2 S.r.l.
+  ap: true
+  smp: true
+  registered_office: Via Yser, 21 - 00198 Roma (RM)
+  contact_point: Emiliano Minella
+  contact_info: emiliano.minella@gmail.com
 - business_name: Open Source Italia S.r.l.
   ap: true
   smp: false
@@ -137,12 +143,6 @@
   registered_office: Viale Forlanini, 36 - 20024 Garbagnate Milanese (MI)
   contact_point: Marina Gallo
   contact_info: marina.gallo@sbitalia.com
-- business_name: SEDIVA S.r.l.
-  ap: true
-  smp: true
-  registered_office: Piazza Pitagora, 10 - 00197 Roma (RM)
-  contact_point: Emiliano Minella
-  contact_info: ict@sediva.it
 - business_name: SIAV S.p.A.
   ap: true
   smp: true
