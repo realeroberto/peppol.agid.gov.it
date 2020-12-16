@@ -72,7 +72,7 @@ I documenti PEPPOL utilizzano il formato UBL XML.
 
 **FAQ 13 - Cos'è il formato UBL XML?**
 
-Si tratta di un [formato standard universale per i documenti commerciali](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl>). L'utilizzo cui è destinato viene suggerito già dal suo nome: **UBL sta per Universal business language, mentre XML individua il formato documentale**. La sua realizzazione è il risultato di una collaborazione a livello internazionale volta proprio a individuare una libreria di documenti standard XML, per facilitare gli scambi e contribuire all'interoperabilità dei sistemi
+Si tratta di un [formato standard universale per i documenti commerciali](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl). L'utilizzo cui è destinato viene suggerito già dal suo nome: **UBL sta per Universal business language, mentre XML individua il formato documentale**. La sua realizzazione è il risultato di una collaborazione a livello internazionale volta proprio a individuare una libreria di documenti standard XML, per facilitare gli scambi e contribuire all'interoperabilità dei sistemi
 
 **FAQ 14 - Di quali elementi si compone PEPPOL?**
 
