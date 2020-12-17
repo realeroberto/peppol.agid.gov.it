@@ -14,9 +14,17 @@ Se volete accreditarvi su rete PEPPOL, come prima cosa, dovete scegliere un inte
 
 Preferibilmente il soggetto (es. Operatore economico o PA) ha uno e un solo Participant Id PEPPOL, ottenuto la prima volta che viene registrato sulla rete.
 
-**FAQ 2 - Cosa devo comunicare alla Pubblica Amministrazione per ricevere gli ordini?**
+**FAQ 2 - Qual è il formato di un Participant ID PEPPOL?**
 
-L'unico elemento da comunicare è il proprio Participant ID PEPPOL.
+In Italia per i Participant ID PEPPOL sono in uso le seguenti codifiche:
+
+- 9906:ITpartitaIVA (per operatori economici)
+
+- 9907:CodiceFiscale (per operatori economici)
+
+- 0201:CodiceIPA (per Pubbliche Amministrazioni)
+
+Oltre a queste, sono ammesse le codifiche internazionali elencate nella codelist dei Participant Identifier Schemes [pubblicata da PEPPOL](https://docs.peppol.eu/edelivery/codelists/).
 
 **FAQ 3 - Che cos'è un intermediario PEPPOL?**
 
@@ -50,31 +58,19 @@ Un Service Metadata Publisher Provider è un fornitore, certificato PEPPOL, del 
 
 Per diventare Service Metadata Publisher Provider nel dominio italiano è necessario seguire la procedura di onboarding prevista da AgID e disponibile [qui](/it/qualificazione-ap-smp/).
 
-**FAQ 10 - Qual è il formato di un Participant ID PEPPOL?**
-
-In Italia per i Participant ID PEPPOL sono in uso le seguenti codifiche:
-
-- 9906:ITpartitaIVA (per operatori economici)
-
-- 9907:CodiceFiscale (per operatori economici)
-
-- 0201:CodiceIPA (per Pubbliche Amministrazioni)
-
-Oltre a queste, sono ammesse le codifiche internazionali elencate nella codelist dei Participant Identifier Schemes [pubblicata da PEPPOL](https://docs.peppol.eu/edelivery/codelists/).
-
-**FAQ 11 - Quale è il vantaggio di iscrivermi a PEPPOL?**
+**FAQ 10 - Quale è il vantaggio di iscrivermi a PEPPOL?**
 
 Aderire alla rete PEPPOL consente ai soggetti di poter gestire tutti i documenti del ciclo degli acquisti (Ordine, Documenti di Trasporto e Fattura) utilizzando il medesimo formato e la medesima infrastruttura di trasporto tra cliente e fornitore adoperata sia in ambito nazionale, sia in ambito europeo e internazionale.
 
-**FAQ 12 - Qual è il formato dei documenti PEPPOL?**
+**FAQ 11 - Qual è il formato dei documenti PEPPOL?**
 
 I documenti PEPPOL utilizzano il formato UBL XML.
 
-**FAQ 13 - Cos'è il formato UBL XML?**
+**FAQ 12 - Cos'è il formato UBL XML?**
 
 Si tratta di un [formato standard universale per i documenti commerciali](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl). L'utilizzo cui è destinato viene suggerito già dal suo nome: **UBL sta per Universal business language, mentre XML individua il formato documentale**. La sua realizzazione è il risultato di una collaborazione a livello internazionale volta proprio a individuare una libreria di documenti standard XML, per facilitare gli scambi e contribuire all'interoperabilità dei sistemi
 
-**FAQ 14 - Di quali elementi si compone PEPPOL?**
+**FAQ 13 - Di quali elementi si compone PEPPOL?**
 
 PEPPOL si basa su tre elementi fondamentali:
 
@@ -85,3 +81,8 @@ PEPPOL si basa su tre elementi fondamentali:
 - **PEPPOL TIA**, Transport infrastructure agreements -- le regole per l'utilizzo dell'infrastruttura di rete.
 
 Per approfondimenti è possibile consultare la pagina [*Cos'è PEPPOL*](/it/chi-siamo/cos-e-peppol/).
+
+**FAQ 14 - Cosa devo comunicare alla Pubblica Amministrazione per ricevere gli ordini?**
+
+L'unico elemento da comunicare è il proprio Participant ID PEPPOL.
+
