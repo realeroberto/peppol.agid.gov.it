@@ -14,9 +14,17 @@ If you want to be accredited on the PEPPOL network, first of all, you must choos
 
 Preferably the subject (e.g. the economic operator or the public administration) has one and only one PEPPOL Participant ID, obtained the first time it is registered on the network.
 
-**FAQ 2 - What do I have to communicate to the Public Administration to receive orders?**
+**FAQ 2 - Which is the format of a PEPPOL Participant ID?**
 
-The only thing to communicate is your PEPPOL Participant ID.
+In Italy, the following codes are used for PEPPOL Participant IDs:
+
+-   9906:ITpartitaIVA (for economic operators)
+
+-   9907:CodiceFiscale (for economic operators)
+
+-   0201:CodiceIPA (for Public Administrations)
+
+In addition to these codes, the international codes listed in the Participant IDentifier Schemes codelist [published by PEPPOL](https://docs.peppol.eu/edelivery/codelists/) are allowed.
 
 **FAQ 3 - What is a PEPPOL intermediary?**
 
@@ -50,31 +58,19 @@ A Service Metadata Publisher Provider is a PEPPOL-certified service provider who
 
 To become a Service Metadata Publisher Provider in the Italian domain it is necessary to follow the onboarding procedure provided by AgID and available [here](/en/qualification-ap-smp/).
 
-**FAQ 10 - Which is the format of a PEPPOL Participant ID?**
-
-In Italy, the following codes are used for PEPPOL Participant IDs:
-
--   9906:ITpartitaIVA (for economic operators)
-
--   9907:CodiceFiscale (for economic operators)
-
--   0201:CodiceIPA (for Public Administrations)
-
-In addition to these codes, the international codes listed in the Participant IDentifier Schemes codelist [published by PEPPOL](https://docs.peppol.eu/edelivery/codelists/) are allowed.
-
-**FAQ 11 - Which is the advantage of joining PEPPOL?**
+**FAQ 10 - Which is the advantage of joining PEPPOL?**
 
 Joining the PEPPOL network allows parties to be able to manage all the documents of the purchasing cycle (Order, Transport Documents and Invoice) using the same format and the same transport infrastructure between customer and supplier both within nation borders and at the European/international level.
 
-**FAQ 12 - Which is the format of PEPPOL documents?**
+**FAQ 11 - Which is the format of PEPPOL documents?**
 
 PEPPOL documents use the UBL XML format.
 
-**FAQ 13 - What is the UBL XML format?**
+**FAQ 12 - What is the UBL XML format?**
 
 The UBL XML format is a [universal standard format for business documents](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl). Its intended use is already suggested by its name: UBL stands for Universal Business Language, whilst XML identifies the document format. Its implementation is the result of an international collaboration aimed at identifying a library of standard XML documents, to facilitate exchanges and contribute to system interoperability.
 
-**FAQ 14 - On which elements is PEPPOL based on?**
+**FAQ 13 - On which elements is PEPPOL based on?**
 
 PEPPOL is based on three fundamental elements:
 
@@ -84,4 +80,7 @@ PEPPOL is based on three fundamental elements:
 
 -   **PEPPOL TIA**, Transport infrastructure agreements - the rules for using the network infrastructure.
 
+**FAQ 14 - What do I have to communicate to the Public Administration to receive orders?**
+
+The only thing to communicate is your PEPPOL Participant ID.
 
