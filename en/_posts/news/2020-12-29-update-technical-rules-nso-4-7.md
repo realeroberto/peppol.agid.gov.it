@@ -13,7 +13,7 @@ The General Accounting Office of the State has published an update to the [NSO T
 
 The update was also received by the technical specifications published by the Italian Peppol Authority at the link <https://peppol-docs.agid.gov.it/>.
 
-The main changes are summarized in the **"Release Notes"** section of the **Simple Ordering**, **Complete Ordering**, including:
+The main changes are summarized in the **"Release Notes"** section of the **Simple Ordering** and **Complete Ordering**, including:
 
 -   Integrated a table summarising the structured fields (paragraph 4.3)
 -   Created a new paragraph, "4.4 Document Type", which describes the sub-type and the variants of the "Order" and "Response" Documents
