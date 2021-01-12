@@ -5,6 +5,7 @@ gem 'jekyll', '3.9.0'
 
 gem 'html-proofer', '~> 3.11'
 gem 'kramdown-parser-gfm'
+gem "nokogiri", ">= 1.11.0.rc4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
