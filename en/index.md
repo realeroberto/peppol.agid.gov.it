@@ -37,6 +37,8 @@ electronic order sent by an Italian Public Administration via traditional
 channels (PEC, FTP and WS9) to NSO, and deliver to the NSO itself the result of
 the transmission to Peppol of the document received from the Access Point of
 the recipient economic operator (Corner 3).
+
+<br><br>Go to the <a href="https://peppol-ap.agid.gov.it/notier/pub/risultatiAp.html">Statistics for the single Peppol Access Point for the PA</a> (in Italian only).
 {% endcapture %}
 
 {% assign about_peppol = site.pages | where: "ref", "cos-e-peppol" | where: "lang", page.lang | first %}
