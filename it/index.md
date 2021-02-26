@@ -37,6 +37,8 @@ da una Pubblica Amministrazione italiana tramite canali tradizionali (PEC, FTP
 e WS9) a NSO, e consegnare al Nodo Smistamento Ordini (NSO) l’esito della
 trasmissione surete Peppol del documento ricevuto dall’Access Point
 dell’operatore economico destinatario (Corner 3).
+
+<br><br>Vai alle <a href="https://peppol-ap.agid.gov.it/notier/pub/risultatiAp.html">Statistiche dell'Access Point unico della Pubblica Amministrazione</a>.
 {% endcapture %}
 
 {% assign about_peppol = site.pages | where: "ref", "cos-e-peppol" | where: "lang", page.lang | first %}
@@ -47,7 +49,6 @@ dell’operatore economico destinatario (Corner 3).
     read_more_page_first_card=about_peppol
     title_second_card=hero_title_second_card
     text_second_card=hero_text_second_card
-    read_more_page_second_card=about_peppol
 %}
 
 <main class="container my-5" markdown="1">
