@@ -149,6 +149,12 @@
   registered_office: Via Rossi, 5/N - 35030 Rubano (PD)
   contact_point: Roberto Pinelli
   contact_info: roberto.pinelli@siav.it
+- business_name: Sicilia Digitale S.p.A.
+  ap: true
+  smp: true
+  registered_office: Via Ammiraglio Thaon di Revel, 20 - 90142 Palermo
+  contact_point: Carmine Canonico
+  contact_info: protocollo@siciliaeservizi.it
 - business_name: STDM S.r.l
   ap: true
   smp: true
