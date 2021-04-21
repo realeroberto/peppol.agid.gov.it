@@ -28,11 +28,6 @@ in via obbligatoria (Mandatory date) in conformità con le seguenti date (cfr
 |-------------|------------------|----------------|
 | 11.04.2021  | 03.05.2021       | 17.05.2021     |
 
-Il MEF-RGS e la Peppol Authority italiana AgID stanno collaborando al
-recepimento delle modifiche e, pertanto, si comunica che sarà pubblicata una
-nuova versione delle Regole tecniche NSO e delle specifiche Peppol italiane il
-prossimo 4/05 con entrata in vigore dal 17/05/201.
-
 Di seguito si riepilogano i principali cambiamenti che sono previsti per
 **Ordinazione Semplice** e **Documento di Trasporto**:
 
