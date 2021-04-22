@@ -173,6 +173,12 @@
   registered_office: Via Mendicità Istruita, 24 – 12042 Bra (CN)
   contact_point: Luca Del Santo
   contact_info: b2b@service.tesisquare.com
+- business_name: Tickstar AB
+  ap: true
+  smp: true
+  registered_office: Triewaldsgränd 2, 11129 Stoccolma, Svezia
+  contact_point: Tickstar Support
+  contact_info: support@tickstar.com
 - business_name: Top Consult S.r.l.
   ap: true
   smp: true
