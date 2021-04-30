@@ -29,6 +29,12 @@
   registered_office: Via Isonzo 19/E - 00198 Rome
   contact_point: Luca Mastrogregori
   contact_info: luca.mastrogregori@consip.it
+- business_name: CST S.r.l.
+  ap: true
+  smp: false
+  registered_office: Via Ippolito Rosellini, 12 - 20124 Milano 
+  contact_point: Segreteria CST
+  contact_info: segreteria@csttech.it
 - business_name: dEDIcated Italia S.r.l
   ap: true
   smp: false
