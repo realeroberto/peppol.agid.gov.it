@@ -11,11 +11,11 @@ permalink: /it/news/spring-release-2021/
 
 Il giorno 3 Maggio 2021 OpenPeppol pubblicherà formalmente gli aggiornamenti
 relativi alla Spring Release 2021, contenenti una serie di modifiche le cui
-release notes complete sono disponibili agli indirizzi di test:<!--more-->
+release notes complete sono disponibili agli indirizzi:<!--more-->
 
-*   <https://test-docs.peppol.eu/2021-Spring-ReleaseCandidate/poacc/upgrade-3/release-notes/> per
-    quel che riguarda vari profili tra cui quelli degli ordini, attualmente in
-    uso dal Nodo Smistamento Ordini (NSO)
+*   [Ordinazione Semplice](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html)
+*   [Ordinazione Completa](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html)
+*   [Documento di Trasporto](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html)
 *   <https://test-docs.peppol.eu/2021-Spring-ReleaseCandidate/poacc/upgrade-3/>
     per accedere direttamente alle nuove specifiche attualmente in revisione
     pubblica interna alla Post Award Coordinating Community
@@ -98,5 +98,5 @@ SchemeID.
 Si avvisa infine che le modifiche descritte impattano sui controlli e sulle
 logiche implementate dal tool di validazione, sarà pertanto opportuno scaricare
 la versione aggiornata, disponibile
-[qui](https://peppol-docs.agid.gov.it/docs/my_index.jsp) a partire dal 4 maggio
+[qui](https://peppol-docs.agid.gov.it/docs/) a partire dal 4 maggio
 2021.
