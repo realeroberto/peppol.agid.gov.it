@@ -6,7 +6,7 @@ ref: scheduled-maintenance-notice
 excerpt_separator: <!--more-->
 tags:
 categories: news
-permalink: /en/news/scheduled-maintenance-notice
+permalink: /en/news/scheduled-maintenance-notice/
 ---
 
 On Saturday, May 15, 2021 the central Peppol Access Point of the Public

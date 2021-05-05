@@ -6,7 +6,7 @@ ref: scheduled-maintenance-notice
 excerpt_separator: <!--more-->
 tags:
 categories: news
-permalink: /it/news/interruzione-servizio-manutenzione
+permalink: /it/news/interruzione-servizio-manutenzione/
 ---
 
 Si comunica che nella giornata di sabato 15 maggio 2021 l'Access Point Peppol
