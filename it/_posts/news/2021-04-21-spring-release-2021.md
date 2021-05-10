@@ -16,9 +16,8 @@ release notes complete sono disponibili agli indirizzi:<!--more-->
 *   [Ordinazione Semplice](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/3-order-only/main.html)
 *   [Ordinazione Completa](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/28-ordering/main.html)
 *   [Documento di Trasporto](https://peppol-docs.agid.gov.it/docs/docs/ITA/others/guides/release-notes-it/30-despatchadvice/main.html)
-*   <https://test-docs.peppol.eu/2021-Spring-ReleaseCandidate/poacc/upgrade-3/>
-    per accedere direttamente alle nuove specifiche attualmente in revisione
-    pubblica interna alla Post Award Coordinating Community
+
+Il contenuto originale è disponibile [qui](https://docs.peppol.eu/poacc/upgrade-3/release-notes/).
 
 Tali aggiornamenti saranno pubblicati (Publication date) ed avranno efficacia
 in via obbligatoria (Mandatory date) in conformità con le seguenti date (cfr
