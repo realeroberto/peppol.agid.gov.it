@@ -31,7 +31,7 @@ Di seguito l'agenda dell'incontro:
 Per partecipare al webinar di approfondimento gratuito è necessario inviare una
 mail alla casella <peppol@agid.gov.it> indicando nome, cognome, ente o società
 di appartenenza ed e-mail, **entro il 4 Giugno 2021**.
-[Qui](attachments/workshop-presentazione-smp-unico-della-pa-informativa-privacy.pdf)
+[Qui](/attachments/workshop-presentazione-smp-unico-della-pa-informativa-privacy.pdf)
 è disponibile l'informativa sul trattamento dei dati raccolti per le finalità
 del workshop.
 
