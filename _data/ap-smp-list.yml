@@ -1,7 +1,7 @@
 
 - business_name: A-Cube S.r.l.
   ap: true
-  smp: false
+  smp: true
   registered_office: Viale Piave, 11 - 20129 Milano
   contact_point: Antonino Caccamo
   contact_info: antonino.caccamo@a-cube.io
