@@ -17,7 +17,7 @@ italiani 9907 (CF) e 9906 (Partita IVA) sia a livello di lista EAS (indirizzi
 elettronici registrati) sia a livello di lista ISO 6523 (identificativi delle
 parti).<!--more-->
 
-Pertanto, ogni nuova registrazione dovrà avvenire utilizzando i codici 0210 e
-0211. Al fine di consentire la migrazione dei participant identifier
+Pertanto, ogni nuova registrazione dovrà avvenire utilizzando i codici 0210 e 0211.
+Al fine di consentire la migrazione dei participant identifier
 precedentemente registrati con i codici 9906 e 9907, il loro utilizzo **resterà
 valido fino al 15 Novembre 2021**.
