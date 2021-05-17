@@ -18,9 +18,9 @@ Preferibilmente il soggetto (es. Operatore economico o PA) ha uno e un solo Part
 
 In Italia per i Participant ID PEPPOL sono in uso le seguenti codifiche:
 
-- 9906:ITpartitaIVA (per operatori economici)
+- 0211:ITpartitaIVA (per operatori economici)
 
-- 9907:CodiceFiscale (per operatori economici)
+- 0210:CodiceFiscale (per operatori economici)
 
 - 0201:CodiceIPA (per Pubbliche Amministrazioni)
 
