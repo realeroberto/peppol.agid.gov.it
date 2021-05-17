@@ -18,9 +18,9 @@ Preferably the subject (e.g. the economic operator or the public administration)
 
 In Italy, the following codes are used for PEPPOL Participant IDs:
 
--   9906:ITpartitaIVA (for economic operators)
+-   0211:ITpartitaIVA (for economic operators)
 
--   9907:CodiceFiscale (for economic operators)
+-   0210:CodiceFiscale (for economic operators)
 
 -   0201:CodiceIPA (for Public Administrations)
 
