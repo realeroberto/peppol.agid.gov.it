@@ -66,7 +66,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "fe:db:b7:bd:06:72:a9:75:48:a1:5b:f3:19:ee:81:6c"
+            - "b9:b3:45:cf:b9:14:45:5f:6f:da:2c:2c:f5:a6:2c:43"
       - checkout:
           path: /tmp/gh-pages
       - attach_workspace:
@@ -74,8 +74,8 @@ jobs:
       - run:
           name: Update GitHub Pages
           command: |
-            git config --global user.email "no-reply@agid.gov.it"
-            git config --global user.name "AGID deploy"
+            git config --global user.email "roberto@reale.info"
+            git config --global user.name "Roberto Reale"
             
             cd /tmp/gh-pages
             git checkout gh-pages || git checkout --orphan gh-pages

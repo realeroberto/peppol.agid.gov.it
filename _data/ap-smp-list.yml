@@ -68,7 +68,7 @@
 - business_name: EDICOM S.r.l.
   ap: true
   smp: false
-  registered_office: Viale Francesco restelli 3/1 - 20124 Milano
+  registered_office: Viale Francesco Restelli 3/1 - 20124 Milano
   contact_point: Juan Francisco Baldovi Ortells
   contact_info: jbaldovi@edicomgroup.com
 - business_name: Enerj S.r.l.
@@ -83,6 +83,12 @@
   registered_office: Piazzale dell’Agricoltura, 24 - 00144 Roma
   contact_point: Cosimo Nigro
   contact_info: cosimo.nigro@eng.it
+- business_name: IFIN Sistemi S.r.l. a socio unico
+  ap: true
+  smp: true
+  registered_office: Via G. Medici 9/a - 35138 Padova
+  contact_point: Andrea Rossi
+  contact_info: formalnotices.peppol@ifin.it
 - business_name: IN.TE.SA S.p.A.
   ap: true
   smp: false
