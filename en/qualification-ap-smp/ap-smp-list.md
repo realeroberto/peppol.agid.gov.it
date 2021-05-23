@@ -4,7 +4,7 @@ title: AP/SMP list
 description:
 lang: en
 ref: elenco-ap-smp
-order: 5
+order: 2
 child_of_ref: qualificazione-ap-smp
 last_update: 20/05/2021
 ---
