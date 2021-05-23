@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SMP Unico della PA
+title: Single SMP for the Public Administration
 description:
 lang: en
 ref: smp-unico-pa
