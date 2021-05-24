@@ -50,27 +50,31 @@ Two lists of certified intermediaries are available:
 
 It is always possible to change one's intermediary. Following the choice, the Participant ID of the subject must be migrated from the old to the new intermediary, by agreeing on the methods and times.
 
-**FAQ 8 - What is a Service Metadata Publisher Provider?**
+**FAQ 8 - What is a PEPPOL Access Point?**
+
+A PEPPOL Access Point is the access point to the PEPPOL network. It is the infrastructural component of the network that allows the Public Entity or Economic Operator to connect to the network infrastructure and to allow access to the services offered by PEPPOL, both for the transmission and for the receipt of digital documents.
+
+**FAQ 9 - What is a Service Metadata Publisher Provider?**
 
 A Service Metadata Publisher Provider is a PEPPOL-certified service provider who is in charge of registering Participants on the PEPPOL network and associating each of them with the types of documents it is able to receive (e.g. invoices, orders, and so on).
 
-**FAQ 9 - How can I become a Service Metadata Publisher Provider?**
+**FAQ 10 - How can I become a Service Metadata Publisher Provider?**
 
 To become a Service Metadata Publisher Provider in the Italian domain it is necessary to follow the onboarding procedure provided by AgID and available [here](/en/qualification-ap-smp/).
 
-**FAQ 10 - Which is the advantage of joining PEPPOL?**
+**FAQ 11 - Which is the advantage of joining PEPPOL?**
 
 Joining the PEPPOL network allows parties to be able to manage all the documents of the purchasing cycle (Order, Transport Documents and Invoice) using the same format and the same transport infrastructure between customer and supplier both within nation borders and at the European/international level.
 
-**FAQ 11 - Which is the format of PEPPOL documents?**
+**FAQ 12 - Which is the format of PEPPOL documents?**
 
 PEPPOL documents use the UBL XML format.
 
-**FAQ 12 - What is the UBL XML format?**
+**FAQ 13 - What is the UBL XML format?**
 
 The UBL XML format is a [universal standard format for business documents](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl). Its intended use is already suggested by its name: UBL stands for Universal Business Language, whilst XML identifies the document format. Its implementation is the result of an international collaboration aimed at identifying a library of standard XML documents, to facilitate exchanges and contribute to system interoperability.
 
-**FAQ 13 - On which elements is PEPPOL based on?**
+**FAQ 14 - On which elements is PEPPOL based on?**
 
 PEPPOL is based on three fundamental elements:
 
@@ -80,7 +84,7 @@ PEPPOL is based on three fundamental elements:
 
 -   **PEPPOL TIA**, Transport infrastructure agreements - the rules for using the network infrastructure.
 
-**FAQ 14 - What do I have to communicate to the Public Administration to receive orders?**
+**FAQ 15 - What do I have to communicate to the Public Administration to receive orders?**
 
 The only thing to communicate is your PEPPOL Participant ID.
 
