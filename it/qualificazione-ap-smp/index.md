@@ -4,7 +4,7 @@ title: Qualificazione AP/SMP
 description:
 lang: it
 ref: qualificazione-ap-smp
-order: 2
+order: 1
 ---
 
 Per aderire come AP/SMP Provider:

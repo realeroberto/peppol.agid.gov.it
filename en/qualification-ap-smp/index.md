@@ -4,7 +4,7 @@ title: Qualification AP/SMP
 description:
 lang: en
 ref: qualificazione-ap-smp
-order: 2
+order: 1
 ---
 
 In order to join as an AP/SMP Provider:
