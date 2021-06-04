@@ -18,10 +18,10 @@ Per chi non ha potuto partecipare o per chi vuole approfondire alcuni aspetti, �
 
 Inoltre, sono disponibili le presentazioni dei relatori:
 
-- [Introduzione a Peppol e alle attività della Peppol Authority](20210608_IntroduzionePeppol_e_PeppolAuthorityItalia.pdf)
-- [Ordine e Fattura Peppol in Italia](20210608_PEPPOL_Ordine_Fattura.pdf)
-- [Cos’è il SMP Unico della PA](20210608_PeppolAuthorityItalia_SMPUnicoDellaPA.pdf)
-- [Presentazione del sistema](20210608_SMP_Unico_della_PA_Funzionalita.pdf)
+- [Introduzione a Peppol e alle attività della Peppol Authority](/attachements/20210608_IntroduzionePeppol_e_PeppolAuthorityItalia.pdf)
+- [Ordine e Fattura Peppol in Italia](/attachements/20210608_PEPPOL_Ordine_Fattura.pdf)
+- [Cos’è il SMP Unico della PA](/attachements/20210608_PeppolAuthorityItalia_SMPUnicoDellaPA.pdf)
+- [Presentazione del sistema](/attachements/20210608_SMP_Unico_della_PA_Funzionalita.pdf)
 
 Per ulteriori informazioni sul SMP Unico della PA, è possibile visitare la
 [sezione dedicata](/it/qualificazione-ap-smp/smp-unico-pa/) sul sito della
