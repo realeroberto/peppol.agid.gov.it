@@ -120,6 +120,9 @@ main-nav:
 pec:
   en: "PEC"
   it: "PEC"
+peppol-validator:
+  en: "Peppol document validator"
+  it: "Validazione documenti Peppol"
 phone-number:
   en: "Phone Number"
   it: "Telefono"
@@ -135,6 +138,9 @@ registered-office:
 selection:
   en: "Selection"
   it: "Selezione"
+single-public-smp:
+  en: "Single SMP for Public Administrations"
+  it: "SMP Unico per la PA"
 slim-nav:
   en: "institutional websites navigation"
   it: "navigazione siti istituzionali"
