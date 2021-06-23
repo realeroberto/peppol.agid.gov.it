@@ -16,4 +16,4 @@ The "Single SMP of the PA" is integrated with the [Public Administration Index (
 
 For those Access Point Service Providers who want to use the Single SMP service of the PA, it is sufficient to digitally sign the [application form](/attachments/Form_Abilitazione_SMP_v0.6.docx) (in Italian) and send it to [protocollo@pec.agid.gov.it](mailto:protocollo@pec.agid.gov.it). The Peppol Authority team will enable the accounts listed therein, who will be able to access the portal and perform the registration, modification, deletion of their users, following the simple instructions available in the [user manual](/attachments/Manuale_Interfaccia_SMP_Service_Provider_v1.0.pdf) (in Italian).
 
-<a href="https://peppol-smp.agid.gov.it/ipa/" class="btn btn-primary" role="button">Go to Service</a>
+<a href="https://peppol-smp-w.agid.gov.it/ipa/" class="btn btn-primary" role="button">Go to Service</a>
