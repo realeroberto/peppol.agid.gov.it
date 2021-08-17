@@ -2,7 +2,7 @@
 layout: default
 title: Home
 hero_title: "L’Italia per il business digitale"
-hero_description: "PEPPOL consente alle imprese e alle pubbliche amministrazioni di inviare e ricevere documenti di business in formato standard su una rete aperta, globale e sicura."
+hero_description: "PEPPOL consente alle imprese e alle pubbliche amministrazioni di inviare e ricevere documenti di business in formato standard su una rete aperta, globale e sicura.<br/>Il coordinatore della PEPPOL Authority italiana è Roberto Reale."
 lang: it
 ref: homepage
 ---
