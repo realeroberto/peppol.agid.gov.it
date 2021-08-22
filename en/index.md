@@ -2,7 +2,7 @@
 layout: default
 title: Home
 hero_title: "Italy for digital business"
-hero_description: "PEPPOL allows companies and public administrations to send and receive business documents in standard format over an open, global, and secure network.<br/>Roberto Reale serves as the coordinator of the Italian PEPPOL Authority."
+hero_description: "PEPPOL allows companies and public administrations to send and receive business documents in standard format over an open, global, and secure network."
 lang: en
 ref: homepage
 ---
